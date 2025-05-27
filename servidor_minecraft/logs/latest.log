@@ -127,3 +127,72 @@
 [27May2025 04:13:21.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After ELTROMPAS was slain by Cockatrice, they gave up
 [27May2025 04:13:21.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTROMPAS has made the advancement [Your First Grave]
 [27May2025 04:13:21.673] [Server thread/INFO] [tombstone/]: The player ELTROMPAS has successfully been saved
+[27May2025 04:15:15.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan has made the advancement [Suit Up]
+[27May2025 04:15:22.707] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=293, y=101, z=295}
+[27May2025 04:16:43.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTROMPAS has made the advancement [Amateur Archaeologist]
+[27May2025 04:17:20.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan has made the advancement [Isn't It Iron Pick]
+[27May2025 04:18:28.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTROMPAS has made the advancement [Sweet Dreams]
+[27May2025 04:20:33.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan has reached the goal [Strong or Careful]
+[27May2025 04:20:33.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan was blown up by Creeper
+[27May2025 04:20:33.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan has made the advancement [Your First Grave]
+[27May2025 04:20:33.272] [Server thread/INFO] [tombstone/]: The player eriickgaiitan has successfully been saved
+[27May2025 04:20:45.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTROMPAS has made the advancement [Book of Monsters]
+[27May2025 04:20:46.254] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: eriickgaiitan was kicked for floating too long!
+[27May2025 04:20:46.255] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: eriickgaiitan lost connection: Disconnected
+[27May2025 04:20:46.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan left the game
+[27May2025 04:20:46.330] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[27May2025 04:20:55.351] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: eriickgaiitan[/127.53.107.145:54877] logged in with entity id 18821 at (-141.65966920354296, 84.28549238931866, 1565.544389644566)
+[27May2025 04:20:55.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan joined the game
+[27May2025 04:21:00.896] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: eriickgaiitan was kicked for floating too long!
+[27May2025 04:21:00.946] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: eriickgaiitan lost connection: Flying is not enabled on this server
+[27May2025 04:21:00.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan left the game
+[27May2025 04:21:07.496] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: eriickgaiitan[/127.53.107.145:43857] logged in with entity id 19153 at (-145.6322102846152, 68.86248849543773, 1572.9980703561237)
+[27May2025 04:21:07.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan joined the game
+[27May2025 04:21:16.896] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ELTROMPAS lost connection: Disconnected
+[27May2025 04:21:16.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTROMPAS left the game
+[27May2025 04:21:24.296] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ELTROMPAS[/127.151.73.85:38405] logged in with entity id 19489 at (-316.38718960054064, 63.0, -402.97159257072747)
+[27May2025 04:21:24.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTROMPAS joined the game
+[27May2025 04:21:30.390] [Server thread/WARN] [tombstone/]: The death event of the player ELTROMPAS was canceled by another mod
+[27May2025 04:21:30.401] [Server thread/INFO] [tombstone/]: The player ELTROMPAS has successfully been saved
+[27May2025 04:22:01.052] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify villager zombie attack target task for translation{key='entity.minecraft.zombified_piglin', args=[]}
+[27May2025 04:22:30.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTROMPAS has made the advancement [I always come back]
+[27May2025 04:22:38.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTROMPAS was slain by Vampire Hunter Trainer
+[27May2025 04:22:38.773] [Server thread/INFO] [tombstone/]: The player ELTROMPAS has successfully been saved
+[27May2025 04:23:10.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTROMPAS has reached the goal [Here They Come]
+[27May2025 04:23:14.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTROMPAS has made the advancement [Knowledge of Death]
+[27May2025 04:23:14.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTROMPAS has reached the goal [Chain Death]
+[27May2025 04:23:14.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTROMPAS was slain by Vampire Hunter Trainer
+[27May2025 04:23:14.402] [Server thread/INFO] [tombstone/]: The player ELTROMPAS has successfully been saved
+[27May2025 04:23:44.741] [Server thread/WARN] [tombstone/]: The death event of the player ELTROMPAS was canceled by another mod
+[27May2025 04:23:44.751] [Server thread/INFO] [tombstone/]: The player ELTROMPAS has successfully been saved
+[27May2025 04:23:46.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTROMPAS was slain by Vampire Hunter Trainer
+[27May2025 04:23:46.844] [Server thread/INFO] [tombstone/]: The player ELTROMPAS has successfully been saved
+[27May2025 04:23:50.997] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ELTROMPAS lost connection: Disconnected
+[27May2025 04:23:50.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTROMPAS left the game
+[27May2025 04:24:00.641] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ELTROMPAS[/127.151.73.85:37067] logged in with entity id 21580 at (-335.8987378201282, 63.0, -382.3378195210459)
+[27May2025 04:24:00.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTROMPAS joined the game
+[27May2025 04:25:00.282] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-59, z=-17}
+[27May2025 04:25:00.283] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-58, z=-12}
+[27May2025 04:25:00.283] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-58, z=-15}
+[27May2025 04:25:00.283] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=19, y=-59, z=-10}
+[27May2025 04:25:04.388] [Server thread/WARN] [tombstone/]: The death event of the player ELTROMPAS was canceled by another mod
+[27May2025 04:25:04.400] [Server thread/INFO] [tombstone/]: The player ELTROMPAS has successfully been saved
+[27May2025 04:25:06.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After ELTROMPAS was slain by Iron Golem, they gave up
+[27May2025 04:25:07.432] [Server thread/INFO] [tombstone/]: The player ELTROMPAS has successfully been saved
+[27May2025 04:26:27.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTROMPAS was slain by Vampire Hunter Trainer
+[27May2025 04:26:28.015] [Server thread/INFO] [tombstone/]: The player ELTROMPAS has successfully been saved
+[27May2025 04:26:48.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTROMPAS has made the advancement [Acquire Hardware]
+[27May2025 04:26:52.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTROMPAS has made the advancement [Vampire Diaries]
+[27May2025 04:28:56.697] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/24030, l='ServerLevel[world]', x=-197.27, y=65.00, z=1285.61] died, message: 'Villager was shot by Stymphalian Bird'
+[27May2025 04:32:30.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <eriickgaiitan> duerma gey
+[27May2025 04:32:40.844] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ELTROMPAS lost connection: Disconnected
+[27May2025 04:32:40.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTROMPAS left the game
+[27May2025 04:32:50.191] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ELTROMPAS[/127.151.73.85:51709] logged in with entity id 26650 at (-282.5, 64.0, -408.5)
+[27May2025 04:32:50.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTROMPAS joined the game
+[27May2025 04:32:57.093] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ELTROMPAS lost connection: Disconnected
+[27May2025 04:32:57.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTROMPAS left the game
+[27May2025 04:33:25.985] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4cf66920[id=<null>,name=ELTROMPAS,properties={},legacy=false] (/127.151.73.85:51205) lost connection: Disconnected
+[27May2025 04:34:00.487] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2e2f48c6[id=<null>,name=ELTROMPAS,properties={},legacy=false] (/127.151.73.85:37555) lost connection: Disconnected
+[27May2025 04:34:20.794] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ELTROMPAS[/127.151.73.85:51291] logged in with entity id 27096 at (-282.5, 64.0, -408.5)
+[27May2025 04:34:20.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTROMPAS joined the game
+[27May2025 04:34:50.290] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/27106, l='ServerLevel[world]', x=-287.67, y=63.00, z=-424.63] died, message: 'Villager was sucked dry fighting ELTROMPAS'
