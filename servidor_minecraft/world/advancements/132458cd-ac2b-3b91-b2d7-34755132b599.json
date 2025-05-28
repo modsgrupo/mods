@@ -430,6 +430,7 @@
       "porkchop": "2025-05-26 21:46:44 +0000",
       "mutton": "2025-05-26 21:58:51 +0000",
       "bread": "2025-05-27 02:50:55 +0000",
+      "golden_apple": "2025-05-28 04:02:54 +0000",
       "rotten_flesh": "2025-05-26 21:45:32 +0000"
     },
     "done": false
@@ -1844,9 +1845,27 @@
     },
     "done": true
   },
+  "vampirism:recipes/decorations/general/totem_top": {
+    "criteria": {
+      "has_obsidian": "2025-05-28 03:57:41 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/misc/vampire_beacon": {
+    "criteria": {
+      "has_obsidian": "2025-05-28 03:57:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-05-28 03:55:19 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/general/totem_base": {
+    "criteria": {
+      "has_obsidian": "2025-05-28 03:57:41 +0000"
     },
     "done": true
   },
@@ -1856,9 +1875,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-05-28 03:57:41 +0000"
+    },
+    "done": true
+  },
+  "vampirism:main/ancient_knowledge": {
+    "criteria": {
+      "blood_container": "2025-05-28 03:59:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_gold_block": {
     "criteria": {
       "has_raw_gold": "2025-05-28 03:55:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-05-28 03:57:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-05-28 03:57:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-05-28 03:57:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-05-28 03:57:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-05-28 03:57:41 +0000"
     },
     "done": true
   },

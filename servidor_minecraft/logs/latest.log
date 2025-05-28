@@ -109,3 +109,17 @@
 [28May2025 03:53:51.628] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify villager zombie attack target task for translation{key='entity.minecraft.zombified_piglin', args=[]}
 [28May2025 03:57:41.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan has made the advancement [Ice Bucket Challenge]
 [28May2025 03:59:12.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan has made the advancement [Vampire Diaries]
+[28May2025 04:05:38.094] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: eriickgaiitan lost connection: Disconnected
+[28May2025 04:05:38.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan left the game
+[28May2025 04:05:46.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[28May2025 04:05:46.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[28May2025 04:05:46.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[28May2025 04:05:46.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[28May2025 04:05:46.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[28May2025 04:05:47.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[28May2025 04:05:47.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[28May2025 04:05:47.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[28May2025 04:05:47.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[28May2025 04:05:47.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[28May2025 04:05:47.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[28May2025 04:05:47.091] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
