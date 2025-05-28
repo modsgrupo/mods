@@ -3068,3 +3068,8 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [28May2025 21:43:11.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan was doomed to fall by Stymphalian Bird
 [28May2025 21:43:11.497] [Server thread/DEBUG] [tombstone/]: A new grave of the player eriickgaiitan was created at position [x:-157, y:73, z:1547, dim:minecraft:overworld]
 [28May2025 21:43:11.503] [Server thread/INFO] [tombstone/]: The player eriickgaiitan has successfully been saved
+[28May2025 21:46:30.287] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28May2025 21:46:30.296] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28May2025 21:51:30.288] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28May2025 21:51:30.296] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28May2025 21:53:28.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan has made the advancement [Herc was on a Roll!]
