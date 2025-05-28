@@ -117,3 +117,6 @@
 [28May2025 03:30:42.423] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
 [28May2025 03:30:48.592] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: eriickgaiitan[/127.53.107.145:43629] logged in with entity id 2726 at (-135.22364822000557, 88.49843822752483, 1502.9312943316393)
 [28May2025 03:30:48.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan joined the game
+[28May2025 03:31:26.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan has reached the goal [Here They Come]
+[28May2025 03:37:09.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan has made the advancement [Amateur Archaeologist]
+[28May2025 03:37:13.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan has made the advancement [Diamonds!]
