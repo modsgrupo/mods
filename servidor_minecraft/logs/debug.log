@@ -3061,3 +3061,10 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [28May2025 21:30:03.425] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.73 and blood value 0 for entity iceandfire:fire_dragon
 [28May2025 21:31:30.312] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [28May2025 21:31:30.323] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28May2025 21:36:30.300] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28May2025 21:36:30.310] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28May2025 21:41:30.291] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28May2025 21:41:30.300] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28May2025 21:43:11.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan was doomed to fall by Stymphalian Bird
+[28May2025 21:43:11.497] [Server thread/DEBUG] [tombstone/]: A new grave of the player eriickgaiitan was created at position [x:-157, y:73, z:1547, dim:minecraft:overworld]
+[28May2025 21:43:11.503] [Server thread/INFO] [tombstone/]: The player eriickgaiitan has successfully been saved

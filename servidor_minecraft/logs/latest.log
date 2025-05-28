@@ -109,3 +109,5 @@
 [28May2025 21:27:15.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan joined the game
 [28May2025 21:27:18.620] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3364ms or 67 ticks behind
 [28May2025 21:27:21.150] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify villager zombie attack target task for translation{key='entity.minecraft.zombified_piglin', args=[]}
+[28May2025 21:43:11.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan was doomed to fall by Stymphalian Bird
+[28May2025 21:43:11.503] [Server thread/INFO] [tombstone/]: The player eriickgaiitan has successfully been saved
