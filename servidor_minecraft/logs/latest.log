@@ -112,3 +112,9 @@
 [28May2025 21:43:11.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan was doomed to fall by Stymphalian Bird
 [28May2025 21:43:11.503] [Server thread/INFO] [tombstone/]: The player eriickgaiitan has successfully been saved
 [28May2025 21:53:28.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan has made the advancement [Herc was on a Roll!]
+[28May2025 22:10:34.465] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: eriickgaiitan lost connection: Timed out
+[28May2025 22:10:34.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan left the game
+[28May2025 22:10:34.526] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[28May2025 22:10:37.676] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: eriickgaiitan[/127.66.33.43:48001] logged in with entity id 9912 at (-147.30839497407723, 100.0, 1528.3581405128134)
+[28May2025 22:10:37.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan joined the game
+[28May2025 22:11:02.617] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: eriickgaiitan moved too quickly! -8.608888093404715,0.41999998688697815,5.209145132689173
