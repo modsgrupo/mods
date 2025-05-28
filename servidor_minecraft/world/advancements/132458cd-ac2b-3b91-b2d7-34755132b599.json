@@ -1404,15 +1404,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cake": {
+  "minecraft:recipes/decorations/grindstone": {
     "criteria": {
-      "has_egg": "2025-05-27 04:24:52 +0000"
+      "has_stone_slab": "2025-05-27 04:22:36 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/beehive": {
+  "minecraft:recipes/food/cake": {
     "criteria": {
-      "has_honeycomb": "2025-05-27 04:29:55 +0000"
+      "has_egg": "2025-05-27 04:24:52 +0000"
     },
     "done": true
   },
@@ -1428,12 +1428,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/grindstone": {
-    "criteria": {
-      "has_stone_slab": "2025-05-27 04:22:36 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2025-05-27 04:28:31 +0000"
@@ -1446,9 +1440,69 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2025-05-27 04:29:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/honeycomb_block": {
     "criteria": {
       "has_honeycomb": "2025-05-27 04:29:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-05-28 03:24:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-05-28 03:24:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-05-28 03:24:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2025-05-28 03:24:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-28 03:24:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-05-28 03:24:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-28 03:24:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-28 03:24:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-28 03:24:16 +0000"
     },
     "done": true
   },

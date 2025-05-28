@@ -1,221 +1,119 @@
-[27May2025 03:44:43.372] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[27May2025 03:44:43.375] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
-[27May2025 03:44:44.225] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[27May2025 03:44:44.236] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.onLoad
-[27May2025 03:44:44.237] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file URL: union:/workspaces/mods/servidor_minecraft/mods/preview_OptiFine_1.20.1_HD_U_I6_pre6.jar%23125!/
-[27May2025 03:44:44.243] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file: /workspaces/mods/servidor_minecraft/mods/preview_OptiFine_1.20.1_HD_U_I6_pre6.jar
-[27May2025 03:44:44.245] [main/INFO] [optifine.OptiFineTransformer/]: Target.PRE_CLASS is available
-[27May2025 03:44:44.298] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/mods/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[27May2025 03:44:44.306] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.initialize
-[27May2025 03:44:44.553] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/mods/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[27May2025 03:44:44.556] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/mods/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[27May2025 03:44:44.558] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/mods/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[27May2025 03:44:44.559] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/mods/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[27May2025 03:44:44.724] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 5 dependencies adding them to mods collection
-[27May2025 03:44:45.249] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.transformers
-[27May2025 03:44:45.260] [main/INFO] [optifine.OptiFineTransformer/]: Targets: 412
-[27May2025 03:44:45.715] [main/INFO] [optifine.OptiFineTransformationService/]: additionalClassesLocator: [optifine., net.optifine.]
-[27May2025 03:44:46.641] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[27May2025 03:44:46.692] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[27May2025 03:44:48.046] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
-[27May2025 03:44:55.615] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[27May2025 03:44:55.620] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
-[27May2025 03:44:55.622] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
-[27May2025 03:44:55.626] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
-[27May2025 03:44:55.627] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
-[27May2025 03:44:55.628] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
-[27May2025 03:44:55.629] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
-[27May2025 03:44:55.634] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
-[27May2025 03:44:56.037] [modloading-worker-0/INFO] [de.teamlapen.vampirism.config.BalanceConfig/]: IceAndFire is loaded -> Adjusting default fire related configuration.
-[27May2025 03:44:56.148] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[27May2025 03:44:56.149] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[27May2025 03:44:56.185] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
-[27May2025 03:45:00.726] [main/INFO] [evilcraft/]: 2205 possible Broom base combinations are ready for flying!
-[27May2025 03:45:01.467] [modloading-worker-0/INFO] [evilcraft/]: Registered packet handler.
-[27May2025 03:45:01.476] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cyclopscore] Starting version check at https://raw.githubusercontent.com/CyclopsMC/Versions/master/forge_update/cyclops-core.json
-[27May2025 03:45:01.562] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cyclopscore] Found status: UP_TO_DATE Current: 1.20.0 Target: null
-[27May2025 03:45:01.564] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [hmag] Starting version check at https://github.com/Mechalopa/Hostile-Mobs-and-Girls/raw/1.20.1/update.json
-[27May2025 03:45:01.648] [main/INFO] [journeymap/]: Initializing Packet Registries
-[27May2025 03:45:01.705] [main/INFO] [de.teamlapen.vampirism.core.ModEffects/]: Fixing vanilla night vision potion types
-[27May2025 03:45:01.756] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [hmag] Found status: OUTDATED Current: 9.0.29 Target: 9.0.30
-[27May2025 03:45:01.757] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
-[27May2025 03:45:01.767] [main/INFO] [de.teamlapen.vampirism.core.ModEffects/]: Fixing vanilla night vision potion types
-[27May2025 03:45:01.844] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: OUTDATED Current: 5.10.2 Target: 5.10.3
-[27May2025 03:45:01.844] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [evilcraft] Starting version check at https://raw.githubusercontent.com/CyclopsMC/Versions/master/forge_update/evilcraft.json
-[27May2025 03:45:01.920] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [evilcraft] Found status: UP_TO_DATE Current: 1.2.53 Target: null
-[27May2025 03:45:01.920] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[27May2025 03:45:01.931] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 8.9.4 Target: 8.9.5
-[27May2025 03:45:01.931] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [vampirism] Starting version check at https://api.modrinth.com/updates/vampirism/forge_updates.json
-[27May2025 03:45:02.011] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [vampirism] Found status: UP_TO_DATE Current: 1.10.13 Target: null
-[27May2025 03:45:02.011] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[27May2025 03:45:02.164] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
-[27May2025 03:45:03.602] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[27May2025 03:45:04.551] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/mods/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23151!/assets/.mcassetsroot' uses unexpected schema
-[27May2025 03:45:04.552] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/mods/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23151!/data/.mcassetsroot' uses unexpected schema
-[27May2025 03:45:05.488] [main/INFO] [de.teamlapen.vampirism.world.biome.OverworldModifications/]: Adding biome vampirism:vampire_forest to ParameterPoints [ParameterPoint[temperature=[-4000--1900], humidity=[1000-3000], continentalness=[-1100-5500], erosion=[-3750--2225], depth=0, weirdness=[-5666--500], offset=0], ParameterPoint[temperature=[-4000--1900], humidity=[1000-3000], continentalness=[-1100-5500], erosion=[-3750--2225], depth=0, weirdness=[500-4000], offset=0]] in Preset.OVERWORLD
-[27May2025 03:45:06.183] [Worker-Main-5/WARN] [artifacts.Artifacts/]: Tag entries for curios:tags/items/magic_book.json cleared by tombstone-1.20.1-8.9.4.jar
-[27May2025 03:45:06.849] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe vampirism:general/umbrella as it's serializer returned null
-[27May2025 03:45:06.882] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe vampirism:general/guidebook as it's serializer returned null
-[27May2025 03:45:06.887] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe vampirism:vampire/blood_bottle as it's serializer returned null
-[27May2025 03:45:06.898] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 16 recipes
-[27May2025 03:45:07.014] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2216 advancements
-[27May2025 03:45:07.025] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 13 curio slots
-[27May2025 03:45:07.033] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio entities
-[27May2025 03:45:07.039] [main/INFO] [de.teamlapen.vampirism.entity.player.skills.SkillTree/]: Loaded 53 skill nodes
-[27May2025 03:45:07.044] [main/INFO] [de.teamlapen.vampirism.entity.converted.VampirismEntityRegistry/]: Registered 14 convertibles
-[27May2025 03:45:07.787] [main/INFO] [evilcraft/]: 19 Broom modifiers can be applied!
-[27May2025 03:45:07.874] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[27May2025 03:45:07.875] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[27May2025 03:45:07.875] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[27May2025 03:45:07.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[27May2025 03:45:07.959] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[27May2025 03:45:07.988] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[27May2025 03:45:08.084] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[27May2025 03:45:08.084] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[27May2025 03:45:08.085] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[27May2025 03:45:08.085] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[27May2025 03:45:08.103] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[27May2025 03:45:08.246] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[27May2025 03:45:08.606] [Server thread/INFO] [de.teamlapen.vampirism.GeneralEventHandler/]: Replacing DistanceManager.chunksToUpdateFutures for level ResourceKey[minecraft:dimension / minecraft:overworld] with concurrent set.
-[27May2025 03:45:13.600] [Server thread/INFO] [de.teamlapen.vampirism.GeneralEventHandler/]: Replacing DistanceManager.chunksToUpdateFutures for level ResourceKey[minecraft:dimension / minecraft:the_nether] with concurrent set.
-[27May2025 03:45:13.614] [Server thread/INFO] [de.teamlapen.vampirism.GeneralEventHandler/]: Replacing DistanceManager.chunksToUpdateFutures for level ResourceKey[minecraft:dimension / minecraft:the_end] with concurrent set.
-[27May2025 03:45:13.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[27May2025 03:45:17.028] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[27May2025 03:45:17.049] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[27May2025 03:45:17.066] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[27May2025 03:45:17.080] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[27May2025 03:45:17.152] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[27May2025 03:45:17.171] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[27May2025 03:45:17.188] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[27May2025 03:45:17.203] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[27May2025 03:45:17.618] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[27May2025 03:45:18.118] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 27%
-[27May2025 03:45:18.618] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 97%
-[27May2025 03:45:18.641] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 5024 ms
-[27May2025 03:45:18.642] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (10.543s)! For help, type "help"
-[27May2025 03:45:18.688] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[27May2025 03:45:18.742] [Server thread/INFO] [cyclopscore/]: Loading infobook /data/cyclopscore/info/test.xml
-[27May2025 03:45:18.758] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
-[27May2025 03:45:18.758] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
-[27May2025 03:45:18.759] [Server thread/INFO] [evilcraft/]: Loading infobook /data/evilcraft/info/book.xml
-[27May2025 03:45:18.793] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:witherer has no valid items
-[27May2025 03:45:18.794] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:hungerer has no valid items
-[27May2025 03:45:18.794] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:kamikaze has no valid items
-[27May2025 03:45:18.794] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:withershield has no valid items
-[27May2025 03:46:58.628] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ELTROMPAS[/127.151.73.85:50739] logged in with entity id 629 at (-62.5, 68.0, 55.5)
-[27May2025 03:46:58.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTROMPAS joined the game
-[27May2025 03:46:58.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTROMPAS has made the advancement [Ice and Fire]
-[27May2025 03:47:06.522] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: eriickgaiitan[/127.53.107.145:37703] logged in with entity id 785 at (-137.30000001192093, 100.1875, 1530.762499988079)
-[27May2025 03:47:06.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan joined the game
-[27May2025 03:52:29.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan has made the advancement [Who You Gonna Call?]
-[27May2025 03:54:39.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTROMPAS has made the advancement [Stone Age]
-[27May2025 03:59:27.918] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ELTROMPAS lost connection: Disconnected
-[27May2025 03:59:27.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTROMPAS left the game
-[27May2025 03:59:35.295] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ELTROMPAS[/127.151.73.85:34273] logged in with entity id 4785 at (16.0982992504779, 64.02442408821369, 39.31000873931214)
-[27May2025 03:59:35.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTROMPAS joined the game
-[27May2025 04:00:57.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan has made the advancement [Knowledge of Death]
-[27May2025 04:00:57.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan has made the advancement [Ashes 'n Bones]
-[27May2025 04:01:03.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan has made the advancement [First Age]
-[27May2025 04:09:13.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTROMPAS has made the advancement [Bloody Stream]
-[27May2025 04:11:10.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTROMPAS has made the advancement [Monster Hunter]
-[27May2025 04:11:12.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan has made the advancement [Knowledge raises the soul]
-[27May2025 04:11:36.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <eriickgaiitan> que logro consiguio dizuque torre sangrienta
-[27May2025 04:12:05.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ELTROMPAS> cosas de vampiros rey
-[27May2025 04:12:21.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <eriickgaiitan> agh me va tocar ser cazdor
-[27May2025 04:13:19.845] [Server thread/WARN] [tombstone/]: The death event of the player ELTROMPAS was canceled by another mod
-[27May2025 04:13:19.859] [Server thread/INFO] [tombstone/]: The player ELTROMPAS has successfully been saved
-[27May2025 04:13:21.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After ELTROMPAS was slain by Cockatrice, they gave up
-[27May2025 04:13:21.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTROMPAS has made the advancement [Your First Grave]
-[27May2025 04:13:21.673] [Server thread/INFO] [tombstone/]: The player ELTROMPAS has successfully been saved
-[27May2025 04:15:15.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan has made the advancement [Suit Up]
-[27May2025 04:15:22.707] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=293, y=101, z=295}
-[27May2025 04:16:43.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTROMPAS has made the advancement [Amateur Archaeologist]
-[27May2025 04:17:20.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan has made the advancement [Isn't It Iron Pick]
-[27May2025 04:18:28.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTROMPAS has made the advancement [Sweet Dreams]
-[27May2025 04:20:33.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan has reached the goal [Strong or Careful]
-[27May2025 04:20:33.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan was blown up by Creeper
-[27May2025 04:20:33.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan has made the advancement [Your First Grave]
-[27May2025 04:20:33.272] [Server thread/INFO] [tombstone/]: The player eriickgaiitan has successfully been saved
-[27May2025 04:20:45.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTROMPAS has made the advancement [Book of Monsters]
-[27May2025 04:20:46.254] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: eriickgaiitan was kicked for floating too long!
-[27May2025 04:20:46.255] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: eriickgaiitan lost connection: Disconnected
-[27May2025 04:20:46.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan left the game
-[27May2025 04:20:46.330] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[27May2025 04:20:55.351] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: eriickgaiitan[/127.53.107.145:54877] logged in with entity id 18821 at (-141.65966920354296, 84.28549238931866, 1565.544389644566)
-[27May2025 04:20:55.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan joined the game
-[27May2025 04:21:00.896] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: eriickgaiitan was kicked for floating too long!
-[27May2025 04:21:00.946] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: eriickgaiitan lost connection: Flying is not enabled on this server
-[27May2025 04:21:00.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan left the game
-[27May2025 04:21:07.496] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: eriickgaiitan[/127.53.107.145:43857] logged in with entity id 19153 at (-145.6322102846152, 68.86248849543773, 1572.9980703561237)
-[27May2025 04:21:07.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan joined the game
-[27May2025 04:21:16.896] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ELTROMPAS lost connection: Disconnected
-[27May2025 04:21:16.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTROMPAS left the game
-[27May2025 04:21:24.296] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ELTROMPAS[/127.151.73.85:38405] logged in with entity id 19489 at (-316.38718960054064, 63.0, -402.97159257072747)
-[27May2025 04:21:24.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTROMPAS joined the game
-[27May2025 04:21:30.390] [Server thread/WARN] [tombstone/]: The death event of the player ELTROMPAS was canceled by another mod
-[27May2025 04:21:30.401] [Server thread/INFO] [tombstone/]: The player ELTROMPAS has successfully been saved
-[27May2025 04:22:01.052] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify villager zombie attack target task for translation{key='entity.minecraft.zombified_piglin', args=[]}
-[27May2025 04:22:30.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTROMPAS has made the advancement [I always come back]
-[27May2025 04:22:38.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTROMPAS was slain by Vampire Hunter Trainer
-[27May2025 04:22:38.773] [Server thread/INFO] [tombstone/]: The player ELTROMPAS has successfully been saved
-[27May2025 04:23:10.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTROMPAS has reached the goal [Here They Come]
-[27May2025 04:23:14.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTROMPAS has made the advancement [Knowledge of Death]
-[27May2025 04:23:14.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTROMPAS has reached the goal [Chain Death]
-[27May2025 04:23:14.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTROMPAS was slain by Vampire Hunter Trainer
-[27May2025 04:23:14.402] [Server thread/INFO] [tombstone/]: The player ELTROMPAS has successfully been saved
-[27May2025 04:23:44.741] [Server thread/WARN] [tombstone/]: The death event of the player ELTROMPAS was canceled by another mod
-[27May2025 04:23:44.751] [Server thread/INFO] [tombstone/]: The player ELTROMPAS has successfully been saved
-[27May2025 04:23:46.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTROMPAS was slain by Vampire Hunter Trainer
-[27May2025 04:23:46.844] [Server thread/INFO] [tombstone/]: The player ELTROMPAS has successfully been saved
-[27May2025 04:23:50.997] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ELTROMPAS lost connection: Disconnected
-[27May2025 04:23:50.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTROMPAS left the game
-[27May2025 04:24:00.641] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ELTROMPAS[/127.151.73.85:37067] logged in with entity id 21580 at (-335.8987378201282, 63.0, -382.3378195210459)
-[27May2025 04:24:00.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTROMPAS joined the game
-[27May2025 04:25:00.282] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-59, z=-17}
-[27May2025 04:25:00.283] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-58, z=-12}
-[27May2025 04:25:00.283] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-58, z=-15}
-[27May2025 04:25:00.283] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=19, y=-59, z=-10}
-[27May2025 04:25:04.388] [Server thread/WARN] [tombstone/]: The death event of the player ELTROMPAS was canceled by another mod
-[27May2025 04:25:04.400] [Server thread/INFO] [tombstone/]: The player ELTROMPAS has successfully been saved
-[27May2025 04:25:06.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After ELTROMPAS was slain by Iron Golem, they gave up
-[27May2025 04:25:07.432] [Server thread/INFO] [tombstone/]: The player ELTROMPAS has successfully been saved
-[27May2025 04:26:27.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTROMPAS was slain by Vampire Hunter Trainer
-[27May2025 04:26:28.015] [Server thread/INFO] [tombstone/]: The player ELTROMPAS has successfully been saved
-[27May2025 04:26:48.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTROMPAS has made the advancement [Acquire Hardware]
-[27May2025 04:26:52.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTROMPAS has made the advancement [Vampire Diaries]
-[27May2025 04:28:56.697] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/24030, l='ServerLevel[world]', x=-197.27, y=65.00, z=1285.61] died, message: 'Villager was shot by Stymphalian Bird'
-[27May2025 04:32:30.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <eriickgaiitan> duerma gey
-[27May2025 04:32:40.844] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ELTROMPAS lost connection: Disconnected
-[27May2025 04:32:40.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTROMPAS left the game
-[27May2025 04:32:50.191] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ELTROMPAS[/127.151.73.85:51709] logged in with entity id 26650 at (-282.5, 64.0, -408.5)
-[27May2025 04:32:50.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTROMPAS joined the game
-[27May2025 04:32:57.093] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ELTROMPAS lost connection: Disconnected
-[27May2025 04:32:57.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTROMPAS left the game
-[27May2025 04:33:25.985] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4cf66920[id=<null>,name=ELTROMPAS,properties={},legacy=false] (/127.151.73.85:51205) lost connection: Disconnected
-[27May2025 04:34:00.487] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2e2f48c6[id=<null>,name=ELTROMPAS,properties={},legacy=false] (/127.151.73.85:37555) lost connection: Disconnected
-[27May2025 04:34:20.794] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ELTROMPAS[/127.151.73.85:51291] logged in with entity id 27096 at (-282.5, 64.0, -408.5)
-[27May2025 04:34:20.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTROMPAS joined the game
-[27May2025 04:34:50.290] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/27106, l='ServerLevel[world]', x=-287.67, y=63.00, z=-424.63] died, message: 'Villager was sucked dry fighting ELTROMPAS'
-[27May2025 04:36:08.936] [Server thread/WARN] [tombstone/]: The death event of the player ELTROMPAS was canceled by another mod
-[27May2025 04:36:08.946] [Server thread/INFO] [tombstone/]: The player ELTROMPAS has successfully been saved
-[27May2025 04:37:29.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTROMPAS was slain by Iron Golem
-[27May2025 04:37:30.320] [Server thread/INFO] [tombstone/]: The player ELTROMPAS has successfully been saved
-[27May2025 04:38:02.042] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ELTROMPAS lost connection: Disconnected
-[27May2025 04:38:02.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTROMPAS left the game
-[27May2025 04:38:09.890] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ELTROMPAS[/127.151.73.85:37369] logged in with entity id 28712 at (-310.77578725591434, 64.17675927506424, -351.23693000258663)
-[27May2025 04:38:09.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTROMPAS joined the game
-[27May2025 04:41:29.550] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: eriickgaiitan lost connection: Disconnected
-[27May2025 04:41:29.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan left the game
-[27May2025 04:41:30.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTROMPAS has made the advancement [Getting an Upgrade]
-[27May2025 04:43:47.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
-[27May2025 04:43:47.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[27May2025 04:43:47.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[27May2025 04:43:47.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[27May2025 04:43:48.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[27May2025 04:43:49.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[27May2025 04:43:49.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[27May2025 04:43:49.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[27May2025 04:43:49.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[27May2025 04:43:49.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[27May2025 04:43:49.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
-[27May2025 04:43:49.315] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[28May2025 03:21:20.493] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[28May2025 03:21:20.498] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
+[28May2025 03:21:23.610] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[28May2025 03:21:23.625] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.onLoad
+[28May2025 03:21:23.626] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file URL: union:/workspaces/mods/servidor_minecraft/mods/preview_OptiFine_1.20.1_HD_U_I6_pre6.jar%23125!/
+[28May2025 03:21:23.638] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file: /workspaces/mods/servidor_minecraft/mods/preview_OptiFine_1.20.1_HD_U_I6_pre6.jar
+[28May2025 03:21:23.641] [main/INFO] [optifine.OptiFineTransformer/]: Target.PRE_CLASS is available
+[28May2025 03:21:23.760] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/mods/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[28May2025 03:21:23.770] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.initialize
+[28May2025 03:21:24.281] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/mods/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[28May2025 03:21:24.284] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/mods/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[28May2025 03:21:24.286] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/mods/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[28May2025 03:21:24.287] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/mods/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[28May2025 03:21:24.566] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 5 dependencies adding them to mods collection
+[28May2025 03:21:25.473] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.transformers
+[28May2025 03:21:25.480] [main/INFO] [optifine.OptiFineTransformer/]: Targets: 412
+[28May2025 03:21:26.154] [main/INFO] [optifine.OptiFineTransformationService/]: additionalClassesLocator: [optifine., net.optifine.]
+[28May2025 03:21:27.183] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[28May2025 03:21:27.251] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[28May2025 03:21:29.078] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[28May2025 03:21:38.953] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[28May2025 03:21:38.957] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
+[28May2025 03:21:38.970] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
+[28May2025 03:21:38.980] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
+[28May2025 03:21:38.984] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
+[28May2025 03:21:38.985] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
+[28May2025 03:21:38.988] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
+[28May2025 03:21:38.992] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
+[28May2025 03:21:39.641] [modloading-worker-0/INFO] [de.teamlapen.vampirism.config.BalanceConfig/]: IceAndFire is loaded -> Adjusting default fire related configuration.
+[28May2025 03:21:39.741] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[28May2025 03:21:39.744] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[28May2025 03:21:39.850] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[28May2025 03:21:45.727] [main/INFO] [evilcraft/]: 2205 possible Broom base combinations are ready for flying!
+[28May2025 03:21:46.595] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cyclopscore] Starting version check at https://raw.githubusercontent.com/CyclopsMC/Versions/master/forge_update/cyclops-core.json
+[28May2025 03:21:46.680] [modloading-worker-0/INFO] [evilcraft/]: Registered packet handler.
+[28May2025 03:21:46.703] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cyclopscore] Found status: UP_TO_DATE Current: 1.20.0 Target: null
+[28May2025 03:21:46.705] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [hmag] Starting version check at https://github.com/Mechalopa/Hostile-Mobs-and-Girls/raw/1.20.1/update.json
+[28May2025 03:21:46.847] [main/INFO] [journeymap/]: Initializing Packet Registries
+[28May2025 03:21:46.872] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [hmag] Found status: OUTDATED Current: 9.0.29 Target: 9.0.30
+[28May2025 03:21:46.872] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[28May2025 03:21:46.898] [main/INFO] [de.teamlapen.vampirism.core.ModEffects/]: Fixing vanilla night vision potion types
+[28May2025 03:21:46.995] [main/INFO] [de.teamlapen.vampirism.core.ModEffects/]: Fixing vanilla night vision potion types
+[28May2025 03:21:47.006] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: OUTDATED Current: 5.10.2 Target: 5.10.3
+[28May2025 03:21:47.007] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [evilcraft] Starting version check at https://raw.githubusercontent.com/CyclopsMC/Versions/master/forge_update/evilcraft.json
+[28May2025 03:21:47.024] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [evilcraft] Found status: UP_TO_DATE Current: 1.2.53 Target: null
+[28May2025 03:21:47.026] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[28May2025 03:21:47.045] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 8.9.4 Target: 8.9.5
+[28May2025 03:21:47.046] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [vampirism] Starting version check at https://api.modrinth.com/updates/vampirism/forge_updates.json
+[28May2025 03:21:47.161] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [vampirism] Found status: UP_TO_DATE Current: 1.10.13 Target: null
+[28May2025 03:21:47.161] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[28May2025 03:21:47.286] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[28May2025 03:21:49.408] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[28May2025 03:21:50.687] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/mods/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23151!/assets/.mcassetsroot' uses unexpected schema
+[28May2025 03:21:50.687] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/mods/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23151!/data/.mcassetsroot' uses unexpected schema
+[28May2025 03:21:51.874] [main/INFO] [de.teamlapen.vampirism.world.biome.OverworldModifications/]: Adding biome vampirism:vampire_forest to ParameterPoints [ParameterPoint[temperature=[-4000--1900], humidity=[1000-3000], continentalness=[-1100-5500], erosion=[-3750--2225], depth=0, weirdness=[-5666--500], offset=0], ParameterPoint[temperature=[-4000--1900], humidity=[1000-3000], continentalness=[-1100-5500], erosion=[-3750--2225], depth=0, weirdness=[500-4000], offset=0]] in Preset.OVERWORLD
+[28May2025 03:21:52.736] [Worker-Main-5/WARN] [artifacts.Artifacts/]: Tag entries for curios:tags/items/magic_book.json cleared by tombstone-1.20.1-8.9.4.jar
+[28May2025 03:21:53.805] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe vampirism:general/umbrella as it's serializer returned null
+[28May2025 03:21:53.849] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe vampirism:general/guidebook as it's serializer returned null
+[28May2025 03:21:53.854] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe vampirism:vampire/blood_bottle as it's serializer returned null
+[28May2025 03:21:53.864] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 16 recipes
+[28May2025 03:21:54.023] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2216 advancements
+[28May2025 03:21:54.036] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 13 curio slots
+[28May2025 03:21:54.047] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio entities
+[28May2025 03:21:54.053] [main/INFO] [de.teamlapen.vampirism.entity.player.skills.SkillTree/]: Loaded 53 skill nodes
+[28May2025 03:21:54.057] [main/INFO] [de.teamlapen.vampirism.entity.converted.VampirismEntityRegistry/]: Registered 14 convertibles
+[28May2025 03:21:55.095] [main/INFO] [evilcraft/]: 19 Broom modifiers can be applied!
+[28May2025 03:21:55.229] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[28May2025 03:21:55.229] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[28May2025 03:21:55.229] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[28May2025 03:21:55.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[28May2025 03:21:55.372] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[28May2025 03:21:55.414] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[28May2025 03:21:55.534] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[28May2025 03:21:55.535] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[28May2025 03:21:55.535] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[28May2025 03:21:55.536] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[28May2025 03:21:55.559] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[28May2025 03:21:55.766] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[28May2025 03:21:56.272] [Server thread/INFO] [de.teamlapen.vampirism.GeneralEventHandler/]: Replacing DistanceManager.chunksToUpdateFutures for level ResourceKey[minecraft:dimension / minecraft:overworld] with concurrent set.
+[28May2025 03:22:02.953] [Server thread/INFO] [de.teamlapen.vampirism.GeneralEventHandler/]: Replacing DistanceManager.chunksToUpdateFutures for level ResourceKey[minecraft:dimension / minecraft:the_end] with concurrent set.
+[28May2025 03:22:02.971] [Server thread/INFO] [de.teamlapen.vampirism.GeneralEventHandler/]: Replacing DistanceManager.chunksToUpdateFutures for level ResourceKey[minecraft:dimension / minecraft:the_nether] with concurrent set.
+[28May2025 03:22:02.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[28May2025 03:22:04.533] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28May2025 03:22:04.553] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28May2025 03:22:04.556] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28May2025 03:22:04.557] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28May2025 03:22:04.977] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28May2025 03:22:05.515] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28May2025 03:22:06.031] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28May2025 03:22:06.476] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28May2025 03:22:06.977] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28May2025 03:22:07.476] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28May2025 03:22:07.979] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[28May2025 03:22:08.501] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 6%
+[28May2025 03:22:08.980] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 13%
+[28May2025 03:22:09.476] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 54%
+[28May2025 03:22:09.927] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 6952 ms
+[28May2025 03:22:09.927] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (14.374s)! For help, type "help"
+[28May2025 03:22:09.996] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[28May2025 03:22:10.077] [Server thread/INFO] [cyclopscore/]: Loading infobook /data/cyclopscore/info/test.xml
+[28May2025 03:22:10.095] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
+[28May2025 03:22:10.096] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[28May2025 03:22:10.096] [Server thread/INFO] [evilcraft/]: Loading infobook /data/evilcraft/info/book.xml
+[28May2025 03:22:10.138] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:witherer has no valid items
+[28May2025 03:22:10.139] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:hungerer has no valid items
+[28May2025 03:22:10.139] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:kamikaze has no valid items
+[28May2025 03:22:10.139] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:withershield has no valid items
+[28May2025 03:22:47.766] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: eriickgaiitan[/127.53.107.145:53589] logged in with entity id 627 at (-126.30374132299455, 94.0, 1526.6849552456295)
+[28May2025 03:22:47.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan joined the game
+[28May2025 03:22:51.696] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3976ms or 79 ticks behind
+[28May2025 03:22:53.616] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify villager zombie attack target task for translation{key='entity.minecraft.zombified_piglin', args=[]}
+[28May2025 03:30:33.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan was slain by Marchioness Spade
+[28May2025 03:30:33.613] [Server thread/INFO] [tombstone/]: The player eriickgaiitan has successfully been saved
+[28May2025 03:30:42.334] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: eriickgaiitan was kicked for floating too long!
+[28May2025 03:30:42.335] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: eriickgaiitan lost connection: Disconnected
+[28May2025 03:30:42.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan left the game
+[28May2025 03:30:42.423] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[28May2025 03:30:48.592] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: eriickgaiitan[/127.53.107.145:43629] logged in with entity id 2726 at (-135.22364822000557, 88.49843822752483, 1502.9312943316393)
+[28May2025 03:30:48.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan joined the game
