@@ -131,3 +131,7 @@
 [29May2025 03:46:50.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan left the game
 [29May2025 03:46:56.306] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: eriickgaiitan[/127.53.107.145:52109] logged in with entity id 9583 at (-200.54626686198756, 51.21648584781766, 1378.931597498008)
 [29May2025 03:46:56.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan joined the game
+[29May2025 03:56:48.401] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: eriickgaiitan lost connection: Disconnected
+[29May2025 03:56:48.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan left the game
+[29May2025 03:57:11.853] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: eriickgaiitan[/127.53.107.145:52655] logged in with entity id 12667 at (-36.78388177960184, -25.0, 1478.5140483077682)
+[29May2025 03:57:11.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan joined the game

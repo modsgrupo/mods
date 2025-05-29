@@ -2364,5 +2364,11 @@
     },
     "done": true
   },
+  "vampirism:recipes/alchemy_table/alchemy_table/vampire_blood_oil": {
+    "criteria": {
+      "has_wheat_seeds": "2025-05-29 03:55:58 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
