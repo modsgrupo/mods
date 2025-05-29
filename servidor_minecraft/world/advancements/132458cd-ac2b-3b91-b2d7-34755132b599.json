@@ -2370,5 +2370,29 @@
     },
     "done": true
   },
+  "vampirism:recipes/decorations/vampire/coffin_light_gray": {
+    "criteria": {
+      "has_wool": "2025-05-29 04:08:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2025-05-29 04:08:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2025-05-29 04:08:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2025-05-29 04:08:43 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
