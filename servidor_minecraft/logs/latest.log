@@ -116,3 +116,18 @@
 [29May2025 03:23:34.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan has reached the goal [Bone Crusher]
 [29May2025 03:39:24.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan tried to swim in lava
 [29May2025 03:39:24.279] [Server thread/INFO] [tombstone/]: The player eriickgaiitan has successfully been saved
+[29May2025 03:42:20.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan fell from a high place
+[29May2025 03:42:20.767] [Server thread/INFO] [tombstone/]: The player eriickgaiitan has successfully been saved
+[29May2025 03:45:44.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan was doomed to fall by Skeleton Girl
+[29May2025 03:45:44.059] [Server thread/INFO] [tombstone/]: The player eriickgaiitan has successfully been saved
+[29May2025 03:45:57.156] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: eriickgaiitan was kicked for floating too long!
+[29May2025 03:45:57.157] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: eriickgaiitan lost connection: Disconnected
+[29May2025 03:45:57.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan left the game
+[29May2025 03:45:57.209] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[29May2025 03:46:03.515] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: eriickgaiitan[/127.53.107.145:49045] logged in with entity id 9109 at (-134.26987356078726, 88.28549238931866, 1502.4137395794164)
+[29May2025 03:46:03.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan joined the game
+[29May2025 03:46:50.054] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: eriickgaiitan was kicked for floating too long!
+[29May2025 03:46:50.102] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: eriickgaiitan lost connection: Flying is not enabled on this server
+[29May2025 03:46:50.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan left the game
+[29May2025 03:46:56.306] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: eriickgaiitan[/127.53.107.145:52109] logged in with entity id 9583 at (-200.54626686198756, 51.21648584781766, 1378.931597498008)
+[29May2025 03:46:56.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan joined the game
