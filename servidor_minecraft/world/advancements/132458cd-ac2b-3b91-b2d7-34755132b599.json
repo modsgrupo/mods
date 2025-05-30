@@ -28,17 +28,24 @@
       "minecraft:old_growth_pine_taiga": "2025-05-27 02:45:07 +0000",
       "minecraft:taiga": "2025-05-27 02:43:33 +0000",
       "minecraft:frozen_river": "2025-05-26 21:53:50 +0000",
+      "minecraft:birch_forest": "2025-05-29 04:22:25 +0000",
       "minecraft:beach": "2025-05-26 21:45:46 +0000",
       "minecraft:dark_forest": "2025-05-27 04:24:52 +0000",
+      "minecraft:mangrove_swamp": "2025-05-29 04:26:12 +0000",
       "minecraft:river": "2025-05-27 02:44:56 +0000",
+      "minecraft:lukewarm_ocean": "2025-05-29 04:33:48 +0000",
       "minecraft:snowy_plains": "2025-05-26 21:53:53 +0000",
       "minecraft:snowy_taiga": "2025-05-27 02:32:44 +0000",
       "minecraft:dripstone_caves": "2025-05-27 04:06:21 +0000",
+      "minecraft:swamp": "2025-05-29 04:23:11 +0000",
       "minecraft:forest": "2025-05-26 20:01:53 +0000",
       "minecraft:lush_caves": "2025-05-28 03:35:28 +0000",
       "minecraft:ice_spikes": "2025-05-26 21:53:49 +0000",
       "minecraft:windswept_forest": "2025-05-27 02:53:35 +0000",
+      "minecraft:jungle": "2025-05-29 04:26:23 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-05-27 02:44:10 +0000",
+      "minecraft:warm_ocean": "2025-05-29 04:34:04 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-05-29 04:33:57 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-27 02:47:02 +0000",
       "minecraft:plains": "2025-05-26 21:45:17 +0000"
     },
@@ -2391,6 +2398,114 @@
   "minecraft:recipes/decorations/light_gray_carpet": {
     "criteria": {
       "has_light_gray_wool": "2025-05-29 04:08:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-05-29 04:23:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-05-29 04:26:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-05-29 04:26:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-05-29 04:26:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-29 04:33:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-29 04:33:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-29 04:33:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-29 04:33:41 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/transportation/dark_spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-29 04:33:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-29 04:33:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-29 04:33:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-29 04:33:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-29 04:33:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-05-29 04:33:41 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/transportation/cursed_spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-29 04:33:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-05-30 21:10:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-05-30 21:10:21 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/food/gold_pile": {
+    "criteria": {
+      "has_item": "2025-05-30 21:10:21 +0000"
     },
     "done": true
   },
