@@ -269,7 +269,9 @@
       "minecraft:husk": "2025-05-30 21:43:02 +0000",
       "minecraft:silverfish": "2025-05-27 04:22:18 +0000",
       "minecraft:enderman": "2025-05-30 21:17:02 +0000",
-      "minecraft:zombie": "2025-05-26 21:44:08 +0000"
+      "minecraft:vex": "2025-05-31 05:04:19 +0000",
+      "minecraft:zombie": "2025-05-26 21:44:08 +0000",
+      "minecraft:zombie_villager": "2025-05-31 05:08:33 +0000"
     },
     "done": false
   },
@@ -2785,6 +2787,36 @@
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2025-05-30 21:43:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-05-31 04:41:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-05-31 04:41:52 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/hunter/potion_table": {
+    "criteria": {
+      "has_glass_bottle": "2025-05-31 05:20:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_mushroom_stew": "2025-05-31 05:20:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_mushroom_stew": "2025-05-31 05:20:41 +0000"
     },
     "done": true
   },
