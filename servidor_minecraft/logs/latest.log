@@ -116,3 +116,11 @@
 [31May2025 05:33:17.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan joined the game
 [31May2025 05:33:20.724] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3564ms or 71 ticks behind
 [31May2025 05:33:20.770] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: eriickgaiitan moved too quickly! 0.0,-10.72224866798749,0.0
+[31May2025 05:42:09.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan has made the advancement [Book of Monsters]
+[31May2025 05:42:34.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan has made the advancement [Would you Like to Know More?]
+[31May2025 05:44:24.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[31May2025 05:44:24.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LOLA<--[HERE]
+[31May2025 05:46:32.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan has made the advancement [Cover Me with Diamonds]
+[31May2025 05:47:43.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan has made the advancement [Dragonslayer]
+[31May2025 05:52:34.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan has made the advancement [Sea? Not a Problem]
+[31May2025 05:54:37.395] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify villager zombie attack target task for translation{key='entity.minecraft.zombified_piglin', args=[]}
