@@ -124,3 +124,63 @@
 [31May2025 05:47:43.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan has made the advancement [Dragonslayer]
 [31May2025 05:52:34.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan has made the advancement [Sea? Not a Problem]
 [31May2025 05:54:37.395] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify villager zombie attack target task for translation{key='entity.minecraft.zombified_piglin', args=[]}
+[31May2025 06:13:35.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan has completed the challenge [Just a Flesh Wound]
+[31May2025 06:19:45.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [eriickgaiitan: Teleported eriickgaiitan to -130.500000, 1527.000000, 97.500000]
+[31May2025 06:19:49.316] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: eriickgaiitan was kicked for floating too long!
+[31May2025 06:19:49.317] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: eriickgaiitan lost connection: Flying is not enabled on this server
+[31May2025 06:19:49.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan left the game
+[31May2025 06:19:49.365] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[31May2025 06:19:56.738] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: eriickgaiitan[/127.53.107.145:55973] logged in with entity id 12743 at (-130.5, 1370.4647622195926, 97.5)
+[31May2025 06:19:56.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan joined the game
+[31May2025 06:20:02.116] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: eriickgaiitan was kicked for floating too long!
+[31May2025 06:20:02.166] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: eriickgaiitan lost connection: Flying is not enabled on this server
+[31May2025 06:20:02.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan left the game
+[31May2025 06:20:11.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[31May2025 06:20:11.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lola<--[HERE]
+[31May2025 06:20:14.162] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@370d089b[id=<null>,name=eriickgaiitan,properties={},legacy=false] (/127.53.107.145:35853) lost connection: Disconnected
+[31May2025 06:20:18.879] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: eriickgaiitan[/127.53.107.145:37973] logged in with entity id 12780 at (-130.5, 1181.8518071193039, 97.5)
+[31May2025 06:20:18.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan joined the game
+[31May2025 06:20:24.015] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: eriickgaiitan was kicked for floating too long!
+[31May2025 06:20:24.065] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: eriickgaiitan lost connection: Flying is not enabled on this server
+[31May2025 06:20:24.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan left the game
+[31May2025 06:20:29.773] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: eriickgaiitan[/127.53.107.145:44313] logged in with entity id 12816 at (-130.5, 989.9551073861853, 97.5)
+[31May2025 06:20:29.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan joined the game
+[31May2025 06:20:31.866] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: eriickgaiitan moved too quickly! 0.0,-12.179127637094666,0.0
+[31May2025 06:20:35.116] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: eriickgaiitan was kicked for floating too long!
+[31May2025 06:20:35.165] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: eriickgaiitan lost connection: Flying is not enabled on this server
+[31May2025 06:20:35.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan left the game
+[31May2025 06:20:40.977] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: eriickgaiitan[/127.53.107.145:46859] logged in with entity id 12851 at (-130.5, 875.1185899014719, 97.5)
+[31May2025 06:20:40.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan joined the game
+[31May2025 06:20:46.115] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: eriickgaiitan was kicked for floating too long!
+[31May2025 06:20:46.166] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: eriickgaiitan lost connection: Flying is not enabled on this server
+[31May2025 06:20:46.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan left the game
+[31May2025 06:20:51.274] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: eriickgaiitan[/127.53.107.145:34217] logged in with entity id 12885 at (-130.5, 689.7763945653863, 97.5)
+[31May2025 06:20:51.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan joined the game
+[31May2025 06:20:56.465] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: eriickgaiitan was kicked for floating too long!
+[31May2025 06:20:56.515] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: eriickgaiitan lost connection: Flying is not enabled on this server
+[31May2025 06:20:56.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan left the game
+[31May2025 06:21:03.873] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: eriickgaiitan[/127.53.107.145:49393] logged in with entity id 12919 at (-130.5, 504.434199229301, 97.5)
+[31May2025 06:21:03.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan joined the game
+[31May2025 06:21:09.016] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: eriickgaiitan was kicked for floating too long!
+[31May2025 06:21:09.065] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: eriickgaiitan lost connection: Flying is not enabled on this server
+[31May2025 06:21:09.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan left the game
+[31May2025 06:21:22.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[31May2025 06:21:22.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lola<--[HERE]
+[31May2025 06:21:32.969] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: eriickgaiitan[/127.53.107.145:49359] logged in with entity id 12955 at (-130.5, 315.8212441290124, 97.5)
+[31May2025 06:21:32.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan joined the game
+[31May2025 06:21:38.116] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: eriickgaiitan was kicked for floating too long!
+[31May2025 06:21:38.165] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: eriickgaiitan lost connection: Flying is not enabled on this server
+[31May2025 06:21:38.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan left the game
+[31May2025 06:21:43.374] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: eriickgaiitan[/127.53.107.145:39821] logged in with entity id 12997 at (-130.5, 130.47904879292707, 97.5)
+[31May2025 06:21:43.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan joined the game
+[31May2025 06:21:46.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan fell from a high place
+[31May2025 06:21:46.874] [Server thread/INFO] [tombstone/]: The player eriickgaiitan has successfully been saved
+[31May2025 06:22:03.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [eriickgaiitan: Teleported eriickgaiitan to -130.500000, 64.000000, 97.500000]
+[31May2025 06:23:33.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan has made the advancement [Rotten to the Core]
+[31May2025 06:25:26.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan has completed the challenge [Rude Awakening]
+[31May2025 06:28:04.773] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: eriickgaiitan lost connection: Disconnected
+[31May2025 06:28:04.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan left the game
+[31May2025 06:29:12.920] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: eriickgaiitan[/127.53.107.145:35437] logged in with entity id 15785 at (-233.43399006605182, 78.02442408821369, 537.2759562517293)
+[31May2025 06:29:12.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan joined the game
+[31May2025 06:30:14.071] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: eriickgaiitan lost connection: Disconnected
+[31May2025 06:30:14.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan left the game
