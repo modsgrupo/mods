@@ -146,3 +146,26 @@
 [31May2025 04:17:18.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTROMPAS left the game
 [31May2025 04:18:30.514] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ELTROMPAS[/127.151.73.85:41583] logged in with entity id 3918 at (-131.58982497616608, 99.0, 1530.4331385341438)
 [31May2025 04:18:30.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTROMPAS joined the game
+[31May2025 04:18:35.749] [Server thread/WARN] [tombstone/]: The death event of the player ELTROMPAS was canceled by another mod
+[31May2025 04:18:35.773] [Server thread/INFO] [tombstone/]: The player ELTROMPAS has successfully been saved
+[31May2025 04:18:49.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELTROMPAS: Teleported ELTROMPAS to eriickgaiitan]
+[31May2025 04:19:00.609] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ELTROMPAS lost connection: Timed out
+[31May2025 04:19:00.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTROMPAS left the game
+[31May2025 04:19:00.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTROMPAS died
+[31May2025 04:19:01.117] [Server thread/INFO] [tombstone/]: The player ELTROMPAS has successfully been saved
+[31May2025 04:19:14.219] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ELTROMPAS[/127.151.73.85:60001] logged in with entity id 4017 at (-131.69489983899987, 98.0, 1529.7259070233504)
+[31May2025 04:19:14.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELTROMPAS joined the game
+[31May2025 04:19:30.809] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: eriickgaiitan lost connection: Disconnected
+[31May2025 04:19:30.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan left the game
+[31May2025 04:19:37.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[31May2025 04:19:37.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[31May2025 04:19:37.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[31May2025 04:19:37.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[31May2025 04:19:37.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[31May2025 04:19:38.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[31May2025 04:19:38.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[31May2025 04:19:38.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[31May2025 04:19:38.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[31May2025 04:19:38.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[31May2025 04:19:38.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[31May2025 04:19:38.101] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
