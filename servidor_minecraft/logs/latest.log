@@ -251,3 +251,10 @@
 [01Jun2025 04:58:27.130] [Server thread/INFO] [tombstone/]: The player eriickgaiitan has successfully been saved
 [01Jun2025 04:58:56.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [eriickgaiitan: Teleported eriickgaiitan to -1241.500000, 50.000000, -31.500000]
 [01Jun2025 05:00:44.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan has completed the challenge [Cannibal]
+[01Jun2025 05:13:03.179] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/31899, l='ServerLevel[world]', x=-1220.46, y=116.00, z=-4.86] died, message: 'Villager was slain by Draugr'
+[01Jun2025 05:13:28.378] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/31761, l='ServerLevel[world]', x=-1217.43, y=104.00, z=7.83] died, message: 'Villager was slain by Elite Draugr'
+[01Jun2025 05:13:42.336] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/32004, l='ServerLevel[world]', x=-1241.46, y=115.00, z=-19.49] died, message: 'Villager was slain by Aptrgangr'
+[01Jun2025 05:17:09.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan has reached the goal [Strong Undead]
+[01Jun2025 05:17:09.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan has completed the challenge [Crusade Against Curse]
+[01Jun2025 05:17:23.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan has made the advancement [Not even afraid of death]
+[01Jun2025 05:17:23.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan has made the advancement [Back to childhood]

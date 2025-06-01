@@ -3464,3 +3464,15 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [01Jun2025 05:04:07.351] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [01Jun2025 05:09:07.345] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [01Jun2025 05:09:07.352] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jun2025 05:13:03.179] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/31899, l='ServerLevel[world]', x=-1220.46, y=116.00, z=-4.86] died, message: 'Villager was slain by Draugr'
+[01Jun2025 05:13:21.785] [Worker-Main-101/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Looking for vampire forest took 62.758s
+[01Jun2025 05:13:28.378] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/31761, l='ServerLevel[world]', x=-1217.43, y=104.00, z=7.83] died, message: 'Villager was slain by Elite Draugr'
+[01Jun2025 05:13:42.336] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/32004, l='ServerLevel[world]', x=-1241.46, y=115.00, z=-19.49] died, message: 'Villager was slain by Aptrgangr'
+[01Jun2025 05:14:07.358] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jun2025 05:14:07.364] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jun2025 05:17:09.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan has reached the goal [Strong Undead]
+[01Jun2025 05:17:09.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan has completed the challenge [Crusade Against Curse]
+[01Jun2025 05:17:23.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan has made the advancement [Not even afraid of death]
+[01Jun2025 05:17:23.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan has made the advancement [Back to childhood]
+[01Jun2025 05:19:07.350] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jun2025 05:19:07.357] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
