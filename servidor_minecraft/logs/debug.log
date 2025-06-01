@@ -3169,3 +3169,32 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [01Jun2025 04:37:49.131] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/16201, l='ServerLevel[world]', x=-1232.28, y=64.00, z=123.60] died, message: 'Villager was slain by Royal Draugr'
 [01Jun2025 04:39:07.353] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [01Jun2025 04:39:07.361] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jun2025 04:41:20.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan was cursed by Maledictus 's Magic
+[01Jun2025 04:41:20.875] [Server thread/DEBUG] [tombstone/]: A new grave of the player eriickgaiitan was created at position [x:-1238, y:50, z:-22, dim:minecraft:overworld]
+[01Jun2025 04:41:20.877] [Server thread/INFO] [tombstone/]: The player eriickgaiitan has successfully been saved
+[01Jun2025 04:44:00.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [eriickgaiitan: Teleported eriickgaiitan to -1237.500000, 50.000000, -21.500000]
+[01Jun2025 04:44:07.358] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jun2025 04:44:07.366] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jun2025 04:44:15.329] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/18560, l='ServerLevel[world]', x=-1239.89, y=116.60, z=-15.28] died, message: 'Villager was cursed by Aptrgangr'
+[01Jun2025 04:44:17.890] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/18805, l='ServerLevel[world]', x=-1248.49, y=67.94, z=98.72] died, message: 'Armorer was slain by Royal Draugr'
+[01Jun2025 04:44:30.683] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/18802, l='ServerLevel[world]', x=-1240.65, y=67.00, z=127.45] died, message: 'Farmer was slain by Royal Draugr'
+[01Jun2025 04:44:54.185] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/19286, l='ServerLevel[world]', x=-1229.41, y=65.00, z=118.46] died, message: 'Villager was slain by Royal Draugr'
+[01Jun2025 04:45:01.886] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/18806, l='ServerLevel[world]', x=-1241.28, y=67.02, z=129.70] died, message: 'Villager was slain by Royal Draugr'
+[01Jun2025 04:45:05.168] [Worker-Main-71/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Looking for vampire forest took 63.12s
+[01Jun2025 04:45:09.734] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/18813, l='ServerLevel[world]', x=-1247.34, y=66.50, z=124.70] died, message: 'Farmer was slain by Royal Draugr'
+[01Jun2025 04:45:18.134] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/18814, l='ServerLevel[world]', x=-1243.24, y=64.00, z=144.21] died, message: 'Villager was slain by Royal Draugr'
+[01Jun2025 04:45:31.685] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/19459, l='ServerLevel[world]', x=-1263.52, y=103.50, z=30.89] died, message: 'Villager was slain by Draugr'
+[01Jun2025 04:45:43.181] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/19628, l='ServerLevel[world]', x=-1220.43, y=116.17, z=-4.43] died, message: 'Villager was slain by Draugr'
+[01Jun2025 04:46:06.581] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/19370, l='ServerLevel[world]', x=-1241.91, y=77.23, z=62.77] died, message: 'Villager was slain by Elite Draugr'
+[01Jun2025 04:46:52.481] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/20134, l='ServerLevel[world]', x=-1240.70, y=104.00, z=6.73] died, message: 'Villager was slain by Draugr'
+[01Jun2025 04:47:37.480] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/18549, l='ServerLevel[world]', x=-1221.48, y=104.00, z=1.00] died, message: 'Villager was slain by Draugr'
+[01Jun2025 04:47:45.928] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/19697, l='ServerLevel[world]', x=-1242.51, y=88.00, z=-20.50] died, message: 'Leatherworker was slain by Elite Draugr'
+[01Jun2025 04:48:26.583] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/20356, l='ServerLevel[world]', x=-1235.26, y=66.00, z=117.50] died, message: 'Villager was slain by Royal Draugr'
+[01Jun2025 04:48:34.383] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/18559, l='ServerLevel[world]', x=-1221.31, y=88.00, z=-9.30] died, message: 'Leatherworker was shot by Elite Draugr'
+[01Jun2025 04:48:41.083] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/18764, l='ServerLevel[world]', x=-1243.54, y=64.00, z=144.16] died, message: 'Farmer was slain by Royal Draugr'
+[01Jun2025 04:48:52.679] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/18652, l='ServerLevel[world]', x=-1235.35, y=103.38, z=1.46] died, message: 'Villager was slain by Draugr'
+[01Jun2025 04:48:56.585] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/19074, l='ServerLevel[world]', x=-1273.33, y=80.00, z=54.30] died, message: 'Villager was shot by Elite Draugr'
+[01Jun2025 04:49:04.927] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/18564, l='ServerLevel[world]', x=-1218.33, y=88.00, z=-7.91] died, message: 'Weaponsmith was slain by Elite Draugr'
+[01Jun2025 04:49:07.355] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jun2025 04:49:07.362] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jun2025 04:49:33.078] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/21861, l='ServerLevel[world]', x=-1257.64, y=108.00, z=-16.50] died, message: 'Villager was slain by Draugr'
