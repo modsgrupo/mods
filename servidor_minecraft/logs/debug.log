@@ -3133,3 +3133,13 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [01Jun2025 04:12:47.754] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify villager zombie attack target task for translation{key='entity.minecraft.zombified_piglin', args=[]}
 [01Jun2025 04:14:07.351] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [01Jun2025 04:14:07.359] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jun2025 04:19:07.345] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jun2025 04:19:07.353] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jun2025 04:24:07.349] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jun2025 04:24:07.356] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jun2025 04:26:52.805] [Worker-Main-4/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Looking for vampire forest took 62.758s
+[01Jun2025 04:27:00.290] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/13220, l='ServerLevel[world]', x=-1269.41, y=87.00, z=41.08] died, message: 'Villager was shot by Elite Draugr'
+[01Jun2025 04:27:42.936] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/13301, l='ServerLevel[world]', x=-1237.10, y=64.00, z=76.54] died, message: 'Villager was slain by Royal Draugr'
+[01Jun2025 04:27:56.080] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/13313, l='ServerLevel[world]', x=-1216.13, y=67.00, z=97.48] died, message: 'Villager was slain by Royal Draugr'
+[01Jun2025 04:28:14.980] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/13870, l='ServerLevel[world]', x=-1176.09, y=63.00, z=93.79] died, message: 'Villager was slain by Royal Draugr'
+[01Jun2025 04:28:48.279] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/13309, l='ServerLevel[world]', x=-1271.50, y=87.00, z=39.63] died, message: 'Villager was slain by Elite Draugr'
