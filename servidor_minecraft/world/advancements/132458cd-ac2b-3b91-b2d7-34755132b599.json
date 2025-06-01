@@ -3326,6 +3326,12 @@
     },
     "done": true
   },
+  "evilcraft:cannibal": {
+    "criteria": {
+      "criteria_0": "2025-06-01 05:00:44 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/teleport_to_grave": {
     "criteria": {
       "coded_trigger": "2025-06-01 04:53:32 +0000"

@@ -3458,3 +3458,9 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [01Jun2025 04:59:03.296] [Worker-Main-51/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Looking for vampire forest took 64.271s
 [01Jun2025 04:59:07.355] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [01Jun2025 04:59:07.363] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jun2025 05:00:01.893] [Worker-Main-71/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Looking for vampire forest took 64.841s
+[01Jun2025 05:00:44.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan has completed the challenge [Cannibal]
+[01Jun2025 05:04:07.344] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jun2025 05:04:07.351] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jun2025 05:09:07.345] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jun2025 05:09:07.352] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
