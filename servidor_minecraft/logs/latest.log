@@ -217,3 +217,36 @@
 [01Jun2025 04:48:56.585] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/19074, l='ServerLevel[world]', x=-1273.33, y=80.00, z=54.30] died, message: 'Villager was shot by Elite Draugr'
 [01Jun2025 04:49:04.927] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/18564, l='ServerLevel[world]', x=-1218.33, y=88.00, z=-7.91] died, message: 'Weaponsmith was slain by Elite Draugr'
 [01Jun2025 04:49:33.078] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/21861, l='ServerLevel[world]', x=-1257.64, y=108.00, z=-16.50] died, message: 'Villager was slain by Draugr'
+[01Jun2025 04:49:56.833] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/18715, l='ServerLevel[world]', x=-1222.23, y=88.00, z=-15.57] died, message: 'Weaponsmith was shot by Elite Draugr'
+[01Jun2025 04:49:59.481] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/20905, l='ServerLevel[world]', x=-1255.10, y=82.00, z=62.99] died, message: 'Villager was slain by Elite Draugr'
+[01Jun2025 04:50:19.228] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/21781, l='ServerLevel[world]', x=-1215.86, y=88.00, z=-0.27] died, message: 'Weaponsmith was slain by Elite Draugr'
+[01Jun2025 04:50:44.137] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/21141, l='ServerLevel[world]', x=-1221.49, y=99.00, z=37.69] died, message: 'Villager was shot by Elite Draugr'
+[01Jun2025 04:50:54.078] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/18676, l='ServerLevel[world]', x=-1227.58, y=97.00, z=16.05] died, message: 'Villager was slain by Draugr'
+[01Jun2025 04:51:14.938] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/22180, l='ServerLevel[world]', x=-1259.50, y=105.00, z=0.62] died, message: 'Villager was slain by Draugr'
+[01Jun2025 04:51:28.328] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/18681, l='ServerLevel[world]', x=-1230.55, y=88.92, z=-9.65] died, message: 'Leatherworker was slain by Elite Draugr'
+[01Jun2025 04:51:34.332] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/22266, l='ServerLevel[world]', x=-1200.50, y=76.00, z=20.30] died, message: 'Villager froze to death'
+[01Jun2025 04:51:36.977] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/23557, l='ServerLevel[world]', x=-1214.99, y=112.00, z=-13.85] died, message: 'Villager was slain by Draugr'
+[01Jun2025 04:51:44.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan was cursed by Maledictus 's Arrow
+[01Jun2025 04:51:44.567] [Server thread/INFO] [tombstone/]: The player eriickgaiitan has successfully been saved
+[01Jun2025 04:51:46.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan has made the advancement [The Most Useful Key]
+[01Jun2025 04:52:05.532] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: eriickgaiitan lost connection: Disconnected
+[01Jun2025 04:52:05.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan left the game
+[01Jun2025 04:53:10.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[01Jun2025 04:53:10.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hola<--[HERE]
+[01Jun2025 04:53:16.790] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: eriickgaiitan[/127.53.107.145:41513] logged in with entity id 23945 at (-157.26263836842364, 100.5625, 1527.8043563048275)
+[01Jun2025 04:53:16.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan joined the game
+[01Jun2025 04:53:32.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan has reached the goal [A Fast Comeback]
+[01Jun2025 04:54:06.828] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/24197, l='ServerLevel[world]', x=-1230.88, y=88.00, z=-13.88] died, message: 'Weaponsmith was slain by Elite Draugr'
+[01Jun2025 04:54:18.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan was cursed by Maledictus
+[01Jun2025 04:54:19.343] [Server thread/INFO] [tombstone/]: The player eriickgaiitan has successfully been saved
+[01Jun2025 04:54:38.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [eriickgaiitan: Teleported eriickgaiitan to -1251.500000, 51.000000, -4.500000]
+[01Jun2025 04:55:14.339] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager AggressiveVillagerEntity['Angry Villager'/25519, l='ServerLevel[world]', x=-1201.60, y=88.00, z=5.50] died, message: 'Angry Villager was slain by Mazdallier'
+[01Jun2025 04:55:39.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan was cursed by Maledictus
+[01Jun2025 04:55:40.403] [Server thread/INFO] [tombstone/]: The player eriickgaiitan has successfully been saved
+[01Jun2025 04:56:06.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [eriickgaiitan: Teleported eriickgaiitan to -1226.500000, 51.000000, -17.500000]
+[01Jun2025 04:57:50.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan was cursed by Maledictus 's Magic
+[01Jun2025 04:57:51.228] [Server thread/INFO] [tombstone/]: The player eriickgaiitan has successfully been saved
+[01Jun2025 04:58:26.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan has reached the goal [Chain Death]
+[01Jun2025 04:58:26.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan was slain by Maledictus
+[01Jun2025 04:58:27.130] [Server thread/INFO] [tombstone/]: The player eriickgaiitan has successfully been saved
+[01Jun2025 04:58:56.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [eriickgaiitan: Teleported eriickgaiitan to -1241.500000, 50.000000, -31.500000]
