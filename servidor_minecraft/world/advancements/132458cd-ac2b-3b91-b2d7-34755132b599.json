@@ -3399,6 +3399,12 @@
     },
     "done": false
   },
+  "vampirism:hunter/betrayal": {
+    "criteria": {
+      "kill": "2025-06-01 06:02:51 +0000"
+    },
+    "done": false
+  },
   "vampirism:vampire/kill_mother": {
     "criteria": {
       "main": "2025-06-01 05:56:20 +0000"
