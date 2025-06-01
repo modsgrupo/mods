@@ -268,3 +268,5 @@
 [01Jun2025 05:22:53.235] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/33977, l='ServerLevel[world]', x=-1257.37, y=93.00, z=23.31] died, message: 'Villager was shot by Elite Draugr'
 [01Jun2025 05:22:58.538] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/34010, l='ServerLevel[world]', x=-1229.33, y=94.00, z=56.82] died, message: 'Villager was shot by Elite Draugr'
 [01Jun2025 05:23:04.283] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/31459, l='ServerLevel[world]', x=-1275.48, y=83.00, z=50.41] died, message: 'Villager was shot by Elite Draugr'
+[01Jun2025 05:57:13.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan has made the advancement [Bloody Stream]
+[01Jun2025 05:58:36.981] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/44691, l='ServerLevel[world]', x=-185.30, y=68.00, z=1250.30] died, message: 'Villager was slain by Zombie'
