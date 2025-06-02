@@ -1,272 +1,115 @@
-[01Jun2025 03:38:16.549] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[01Jun2025 03:38:16.554] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
-[01Jun2025 03:38:17.715] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[01Jun2025 03:38:17.733] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.onLoad
-[01Jun2025 03:38:17.734] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file URL: union:/workspaces/mods/servidor_minecraft/mods/preview_OptiFine_1.20.1_HD_U_I6_pre6.jar%23125!/
-[01Jun2025 03:38:17.743] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file: /workspaces/mods/servidor_minecraft/mods/preview_OptiFine_1.20.1_HD_U_I6_pre6.jar
-[01Jun2025 03:38:17.745] [main/INFO] [optifine.OptiFineTransformer/]: Target.PRE_CLASS is available
-[01Jun2025 03:38:17.821] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/mods/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[01Jun2025 03:38:17.830] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.initialize
-[01Jun2025 03:38:18.166] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/mods/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[01Jun2025 03:38:18.171] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/mods/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[01Jun2025 03:38:18.173] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/mods/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[01Jun2025 03:38:18.174] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/mods/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[01Jun2025 03:38:18.424] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 5 dependencies adding them to mods collection
-[01Jun2025 03:38:19.241] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.transformers
-[01Jun2025 03:38:19.252] [main/INFO] [optifine.OptiFineTransformer/]: Targets: 412
-[01Jun2025 03:38:20.016] [main/INFO] [optifine.OptiFineTransformationService/]: additionalClassesLocator: [optifine., net.optifine.]
-[01Jun2025 03:38:21.235] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[01Jun2025 03:38:21.307] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[01Jun2025 03:38:23.358] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
-[01Jun2025 03:38:34.322] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[01Jun2025 03:38:34.323] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
-[01Jun2025 03:38:34.334] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
-[01Jun2025 03:38:34.339] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
-[01Jun2025 03:38:34.346] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
-[01Jun2025 03:38:34.355] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
-[01Jun2025 03:38:34.356] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
-[01Jun2025 03:38:34.361] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
-[01Jun2025 03:38:34.960] [modloading-worker-0/INFO] [de.teamlapen.vampirism.config.BalanceConfig/]: IceAndFire is loaded -> Adjusting default fire related configuration.
-[01Jun2025 03:38:35.215] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[01Jun2025 03:38:35.216] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[01Jun2025 03:38:35.265] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
-[01Jun2025 03:38:41.649] [main/INFO] [evilcraft/]: 2205 possible Broom base combinations are ready for flying!
-[01Jun2025 03:38:42.597] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cyclopscore] Starting version check at https://raw.githubusercontent.com/CyclopsMC/Versions/master/forge_update/cyclops-core.json
-[01Jun2025 03:38:42.607] [modloading-worker-0/INFO] [evilcraft/]: Registered packet handler.
-[01Jun2025 03:38:42.652] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cyclopscore] Found status: OUTDATED Current: 1.20.0 Target: 1.20.1
-[01Jun2025 03:38:42.656] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [hmag] Starting version check at https://github.com/Mechalopa/Hostile-Mobs-and-Girls/raw/1.20.1/update.json
-[01Jun2025 03:38:42.751] [main/INFO] [journeymap/]: Initializing Packet Registries
-[01Jun2025 03:38:42.795] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [hmag] Found status: OUTDATED Current: 9.0.29 Target: 9.0.30
-[01Jun2025 03:38:42.796] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
-[01Jun2025 03:38:42.848] [main/INFO] [de.teamlapen.vampirism.core.ModEffects/]: Fixing vanilla night vision potion types
-[01Jun2025 03:38:42.886] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: OUTDATED Current: 5.10.2 Target: 5.10.3
-[01Jun2025 03:38:42.887] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [evilcraft] Starting version check at https://raw.githubusercontent.com/CyclopsMC/Versions/master/forge_update/evilcraft.json
-[01Jun2025 03:38:42.902] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [evilcraft] Found status: OUTDATED Current: 1.2.53 Target: 1.2.54
-[01Jun2025 03:38:42.902] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[01Jun2025 03:38:42.920] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 8.9.4 Target: 8.9.5
-[01Jun2025 03:38:42.920] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [vampirism] Starting version check at https://api.modrinth.com/updates/vampirism/forge_updates.json
-[01Jun2025 03:38:42.924] [main/INFO] [de.teamlapen.vampirism.core.ModEffects/]: Fixing vanilla night vision potion types
-[01Jun2025 03:38:43.043] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [vampirism] Found status: UP_TO_DATE Current: 1.10.13 Target: null
-[01Jun2025 03:38:43.043] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[01Jun2025 03:38:43.223] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
-[01Jun2025 03:38:45.196] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[01Jun2025 03:38:46.557] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/mods/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23151!/assets/.mcassetsroot' uses unexpected schema
-[01Jun2025 03:38:46.557] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/mods/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23151!/data/.mcassetsroot' uses unexpected schema
-[01Jun2025 03:38:47.451] [main/INFO] [de.teamlapen.vampirism.world.biome.OverworldModifications/]: Adding biome vampirism:vampire_forest to ParameterPoints [ParameterPoint[temperature=[-4000--1900], humidity=[1000-3000], continentalness=[-1100-5500], erosion=[-3750--2225], depth=0, weirdness=[-5666--500], offset=0], ParameterPoint[temperature=[-4000--1900], humidity=[1000-3000], continentalness=[-1100-5500], erosion=[-3750--2225], depth=0, weirdness=[500-4000], offset=0]] in Preset.OVERWORLD
-[01Jun2025 03:38:48.229] [Worker-Main-3/WARN] [artifacts.Artifacts/]: Tag entries for curios:tags/items/magic_book.json cleared by tombstone-1.20.1-8.9.4.jar
-[01Jun2025 03:38:49.138] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe vampirism:general/umbrella as it's serializer returned null
-[01Jun2025 03:38:49.181] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe vampirism:general/guidebook as it's serializer returned null
-[01Jun2025 03:38:49.186] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe vampirism:vampire/blood_bottle as it's serializer returned null
-[01Jun2025 03:38:49.196] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 16 recipes
-[01Jun2025 03:38:49.321] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2216 advancements
-[01Jun2025 03:38:49.333] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 13 curio slots
-[01Jun2025 03:38:49.341] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio entities
-[01Jun2025 03:38:49.347] [main/INFO] [de.teamlapen.vampirism.entity.player.skills.SkillTree/]: Loaded 53 skill nodes
-[01Jun2025 03:38:49.351] [main/INFO] [de.teamlapen.vampirism.entity.converted.VampirismEntityRegistry/]: Registered 14 convertibles
-[01Jun2025 03:38:50.346] [main/INFO] [evilcraft/]: 19 Broom modifiers can be applied!
-[01Jun2025 03:38:50.452] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[01Jun2025 03:38:50.455] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[01Jun2025 03:38:50.455] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[01Jun2025 03:38:50.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[01Jun2025 03:38:50.651] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[01Jun2025 03:38:50.745] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[01Jun2025 03:38:50.852] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01Jun2025 03:38:50.853] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[01Jun2025 03:38:50.853] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01Jun2025 03:38:50.853] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[01Jun2025 03:38:50.873] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[01Jun2025 03:38:51.079] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[01Jun2025 03:38:51.489] [Server thread/INFO] [de.teamlapen.vampirism.GeneralEventHandler/]: Replacing DistanceManager.chunksToUpdateFutures for level ResourceKey[minecraft:dimension / minecraft:overworld] with concurrent set.
-[01Jun2025 03:38:58.121] [Server thread/INFO] [de.teamlapen.vampirism.GeneralEventHandler/]: Replacing DistanceManager.chunksToUpdateFutures for level ResourceKey[minecraft:dimension / minecraft:the_end] with concurrent set.
-[01Jun2025 03:38:58.134] [Server thread/INFO] [de.teamlapen.vampirism.GeneralEventHandler/]: Replacing DistanceManager.chunksToUpdateFutures for level ResourceKey[minecraft:dimension / minecraft:the_nether] with concurrent set.
-[01Jun2025 03:38:58.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[01Jun2025 03:39:02.814] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[01Jun2025 03:39:02.843] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[01Jun2025 03:39:02.862] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[01Jun2025 03:39:02.873] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[01Jun2025 03:39:02.879] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[01Jun2025 03:39:02.892] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[01Jun2025 03:39:02.900] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[01Jun2025 03:39:02.905] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[01Jun2025 03:39:02.908] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[01Jun2025 03:39:02.909] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[01Jun2025 03:39:03.144] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[01Jun2025 03:39:03.663] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[01Jun2025 03:39:04.140] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
-[01Jun2025 03:39:04.639] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 49%
-[01Jun2025 03:39:05.036] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 6898 ms
-[01Jun2025 03:39:05.037] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (14.167s)! For help, type "help"
-[01Jun2025 03:39:05.086] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[01Jun2025 03:39:05.143] [Server thread/INFO] [cyclopscore/]: Loading infobook /data/cyclopscore/info/test.xml
-[01Jun2025 03:39:05.159] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
-[01Jun2025 03:39:05.159] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
-[01Jun2025 03:39:05.160] [Server thread/INFO] [evilcraft/]: Loading infobook /data/evilcraft/info/book.xml
-[01Jun2025 03:39:05.200] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:witherer has no valid items
-[01Jun2025 03:39:05.201] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:hungerer has no valid items
-[01Jun2025 03:39:05.201] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:kamikaze has no valid items
-[01Jun2025 03:39:05.201] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:withershield has no valid items
-[01Jun2025 03:41:09.182] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: eriickgaiitan[/127.53.107.145:33677] logged in with entity id 614 at (-235.33836189392568, 77.0, 538.4564612904205)
-[01Jun2025 03:41:09.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan joined the game
-[01Jun2025 03:41:11.358] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2185ms or 43 ticks behind
-[01Jun2025 03:44:47.156] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-59, z=36}
-[01Jun2025 03:44:49.762] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-57, z=7}
-[01Jun2025 03:44:49.762] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=23, y=-37, z=8}
-[01Jun2025 03:44:49.798] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-59, z=-17}
-[01Jun2025 03:44:49.799] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-58, z=-12}
-[01Jun2025 03:44:49.799] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-58, z=-15}
-[01Jun2025 03:44:49.799] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=19, y=-59, z=-10}
-[01Jun2025 03:47:38.934] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/4019, l='ServerLevel[world]', x=-1215.28, y=65.00, z=63.63] died, message: 'Villager suffocated in a wall'
-[01Jun2025 03:47:45.081] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/4098, l='ServerLevel[world]', x=-1217.63, y=65.00, z=63.72] died, message: 'Villager suffocated in a wall'
-[01Jun2025 03:47:48.910] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/4435, l='ServerLevel[world]', x=-1209.22, y=88.00, z=3.52] died, message: 'Villager was slain by Royal Draugr'
-[01Jun2025 03:47:56.086] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/4395, l='ServerLevel[world]', x=-1255.63, y=64.00, z=72.72] died, message: 'Villager suffocated in a wall'
-[01Jun2025 03:47:56.238] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/4389, l='ServerLevel[world]', x=-1255.46, y=64.00, z=61.52] died, message: 'Villager suffocated in a wall'
-[01Jun2025 03:47:56.241] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/4390, l='ServerLevel[world]', x=-1248.30, y=64.00, z=60.70] died, message: 'Villager suffocated in a wall'
-[01Jun2025 03:48:02.907] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/4430, l='ServerLevel[world]', x=-1215.65, y=75.00, z=51.06] died, message: 'Villager was slain by Royal Draugr'
-[01Jun2025 03:48:11.936] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/3984, l='ServerLevel[world]', x=-1200.72, y=71.00, z=47.73] died, message: 'Nitwit was slain by Royal Draugr'
-[01Jun2025 03:48:20.792] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/3990, l='ServerLevel[world]', x=-1204.50, y=77.00, z=36.75] died, message: 'Villager was slain by Royal Draugr'
-[01Jun2025 03:48:45.942] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/4983, l='ServerLevel[world]', x=-1255.89, y=93.00, z=44.05] died, message: 'Villager was slain by Draugr'
-[01Jun2025 03:49:31.934] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/5084, l='ServerLevel[world]', x=-1258.44, y=93.00, z=9.56] died, message: 'Villager was slain by Draugr'
-[01Jun2025 03:49:36.929] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/3983, l='ServerLevel[world]', x=-1218.40, y=72.18, z=57.20] died, message: 'Villager was slain by Royal Draugr'
-[01Jun2025 03:50:09.078] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/4913, l='ServerLevel[world]', x=-1210.57, y=67.00, z=94.57] died, message: 'Villager was slain by Royal Draugr'
-[01Jun2025 03:50:13.780] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/5366, l='ServerLevel[world]', x=-1206.81, y=91.00, z=-26.07] died, message: 'Villager was slain by Royal Draugr'
-[01Jun2025 03:50:16.379] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/5396, l='ServerLevel[world]', x=-1198.37, y=88.00, z=2.57] died, message: 'Villager was slain by Draugr'
-[01Jun2025 03:50:42.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan has made the advancement [Frosted Prison]
-[01Jun2025 03:51:44.082] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/5210, l='ServerLevel[world]', x=-1258.52, y=93.00, z=45.06] died, message: 'Villager hit the ground too hard whilst trying to escape Elite Draugr'
-[01Jun2025 03:51:50.386] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/5423, l='ServerLevel[world]', x=-1223.57, y=64.00, z=122.81] died, message: 'Villager was slain by Royal Draugr'
-[01Jun2025 03:52:23.280] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/5840, l='ServerLevel[world]', x=-1228.69, y=101.00, z=-25.48] died, message: 'Villager was slain by Draugr'
-[01Jun2025 03:52:24.779] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/5024, l='ServerLevel[world]', x=-1255.50, y=88.00, z=50.98] died, message: 'Villager was slain by Draugr'
-[01Jun2025 03:53:20.780] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/6068, l='ServerLevel[world]', x=-1213.70, y=101.00, z=-9.52] died, message: 'Villager was slain by Draugr'
-[01Jun2025 03:55:29.984] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/6435, l='ServerLevel[world]', x=-1238.22, y=138.00, z=-7.51] died, message: 'Villager was shot by Elite Draugr'
-[01Jun2025 03:56:05.580] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/6819, l='ServerLevel[world]', x=-1213.48, y=97.00, z=29.53] died, message: 'Villager was slain by Elite Draugr'
-[01Jun2025 03:56:24.680] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/6893, l='ServerLevel[world]', x=-1249.73, y=109.00, z=-22.50] died, message: 'Villager was slain by Draugr'
-[01Jun2025 03:57:23.978] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/6979, l='ServerLevel[world]', x=-1241.05, y=102.00, z=49.99] died, message: 'Villager was slain by Draugr'
-[01Jun2025 03:57:31.530] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/7046, l='ServerLevel[world]', x=-1257.51, y=108.00, z=-15.56] died, message: 'Villager was slain by Draugr'
-[01Jun2025 03:58:25.379] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/7268, l='ServerLevel[world]', x=-1249.84, y=107.00, z=12.50] died, message: 'Villager was slain by Aptrgangr'
-[01Jun2025 03:58:28.644] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/7127, l='ServerLevel[world]', x=-1238.87, y=133.00, z=-19.08] died, message: 'Villager was shot by Elite Draugr'
-[01Jun2025 03:59:02.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan has made the advancement [Surge Protector]
-[01Jun2025 03:59:15.185] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/7222, l='ServerLevel[world]', x=-1227.18, y=88.00, z=40.56] died, message: 'Villager hit the ground too hard whilst trying to escape Elite Draugr'
-[01Jun2025 04:01:46.480] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/5772, l='ServerLevel[world]', x=-1243.70, y=66.94, z=126.82] died, message: 'Farmer was slain by Royal Draugr'
-[01Jun2025 04:02:10.380] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/7399, l='ServerLevel[world]', x=-1224.60, y=64.00, z=121.41] died, message: 'Villager was slain by Royal Draugr'
-[01Jun2025 04:02:30.430] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/5999, l='ServerLevel[world]', x=-1252.09, y=66.00, z=135.54] died, message: 'Villager was slain by Royal Draugr'
-[01Jun2025 04:02:36.831] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/6253, l='ServerLevel[world]', x=-1239.15, y=66.00, z=132.50] died, message: 'Farmer was slain by Royal Draugr'
-[01Jun2025 04:02:41.481] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/6482, l='ServerLevel[world]', x=-1245.06, y=67.00, z=130.49] died, message: 'Villager was slain by Royal Draugr'
-[01Jun2025 04:02:49.880] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/6624, l='ServerLevel[world]', x=-1261.66, y=63.00, z=141.53] died, message: 'Villager was slain by Royal Draugr'
-[01Jun2025 04:02:59.979] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/6956, l='ServerLevel[world]', x=-1280.50, y=63.00, z=125.63] died, message: 'Villager was slain by Royal Draugr'
-[01Jun2025 04:03:45.693] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/8408, l='ServerLevel[world]', x=-1236.95, y=66.00, z=127.49] died, message: 'Farmer was slain by Royal Draugr'
-[01Jun2025 04:04:27.335] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/8961, l='ServerLevel[world]', x=-1248.16, y=102.00, z=56.60] died, message: 'Villager was shot by Elite Draugr'
-[01Jun2025 04:04:37.882] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/6546, l='ServerLevel[world]', x=-1192.58, y=64.00, z=78.49] died, message: 'Villager was slain by Royal Draugr'
-[01Jun2025 04:04:52.435] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/6690, l='ServerLevel[world]', x=-1219.00, y=68.00, z=87.49] died, message: 'Villager was slain by Royal Draugr'
-[01Jun2025 04:05:22.678] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/8671, l='ServerLevel[world]', x=-1240.57, y=115.00, z=-19.45] died, message: 'Villager was slain by Aptrgangr'
-[01Jun2025 04:05:40.486] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/9254, l='ServerLevel[world]', x=-1250.26, y=97.38, z=41.31] died, message: 'Villager was shot by Elite Draugr'
-[01Jun2025 04:05:49.027] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/8458, l='ServerLevel[world]', x=-1215.23, y=88.54, z=-1.70] died, message: 'Weaponsmith was slain by Royal Draugr'
-[01Jun2025 04:06:02.331] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/8774, l='ServerLevel[world]', x=-1238.50, y=86.00, z=29.30] died, message: 'Villager froze to death'
-[01Jun2025 04:06:51.681] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/9447, l='ServerLevel[world]', x=-1276.40, y=82.18, z=50.00] died, message: 'Villager was slain by Elite Draugr'
-[01Jun2025 04:07:40.578] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/9855, l='ServerLevel[world]', x=-1230.54, y=102.00, z=51.74] died, message: 'Villager was slain by Elite Draugr'
-[01Jun2025 04:09:21.643] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/9703, l='ServerLevel[world]', x=-1256.77, y=93.00, z=42.79] died, message: 'Villager was shot by Elite Draugr'
-[01Jun2025 04:09:53.235] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/10626, l='ServerLevel[world]', x=-1219.63, y=66.00, z=107.63] died, message: 'Villager was slain by Royal Draugr'
-[01Jun2025 04:09:59.438] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/5774, l='ServerLevel[world]', x=-1228.09, y=68.00, z=97.18] died, message: 'Armorer was slain by Royal Draugr'
-[01Jun2025 04:10:19.681] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/9612, l='ServerLevel[world]', x=-1261.58, y=66.00, z=109.79] died, message: 'Villager was slain by Royal Draugr'
-[01Jun2025 04:10:40.081] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/10773, l='ServerLevel[world]', x=-1219.48, y=65.00, z=115.17] died, message: 'Armorer was slain by Royal Draugr'
-[01Jun2025 04:10:45.478] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/10831, l='ServerLevel[world]', x=-1236.50, y=100.00, z=48.43] died, message: 'Villager was slain by Elite Draugr'
-[01Jun2025 04:10:53.781] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/9163, l='ServerLevel[world]', x=-1236.35, y=67.00, z=108.70] died, message: 'Villager was slain by Royal Draugr'
-[01Jun2025 04:11:32.634] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/11089, l='ServerLevel[world]', x=-1201.17, y=64.00, z=124.51] died, message: 'Villager was slain by Royal Draugr'
-[01Jun2025 04:12:47.754] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify villager zombie attack target task for translation{key='entity.minecraft.zombified_piglin', args=[]}
-[01Jun2025 04:27:00.290] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/13220, l='ServerLevel[world]', x=-1269.41, y=87.00, z=41.08] died, message: 'Villager was shot by Elite Draugr'
-[01Jun2025 04:27:42.936] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/13301, l='ServerLevel[world]', x=-1237.10, y=64.00, z=76.54] died, message: 'Villager was slain by Royal Draugr'
-[01Jun2025 04:27:56.080] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/13313, l='ServerLevel[world]', x=-1216.13, y=67.00, z=97.48] died, message: 'Villager was slain by Royal Draugr'
-[01Jun2025 04:28:14.980] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/13870, l='ServerLevel[world]', x=-1176.09, y=63.00, z=93.79] died, message: 'Villager was slain by Royal Draugr'
-[01Jun2025 04:28:48.279] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/13309, l='ServerLevel[world]', x=-1271.50, y=87.00, z=39.63] died, message: 'Villager was slain by Elite Draugr'
-[01Jun2025 04:29:10.289] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/13146, l='ServerLevel[world]', x=-1195.42, y=75.85, z=29.60] died, message: 'Villager was slain by Royal Draugr'
-[01Jun2025 04:29:13.330] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/13140, l='ServerLevel[world]', x=-1192.46, y=73.00, z=31.71] died, message: 'Villager was slain by Royal Draugr'
-[01Jun2025 04:29:28.981] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/13298, l='ServerLevel[world]', x=-1219.25, y=77.00, z=52.49] died, message: 'Villager was slain by Royal Draugr'
-[01Jun2025 04:29:32.030] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/13300, l='ServerLevel[world]', x=-1219.39, y=78.00, z=51.91] died, message: 'Villager was slain by Royal Draugr'
-[01Jun2025 04:29:42.229] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/13141, l='ServerLevel[world]', x=-1207.47, y=74.00, z=46.13] died, message: 'Villager was slain by Royal Draugr'
-[01Jun2025 04:29:54.738] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/14026, l='ServerLevel[world]', x=-1195.48, y=76.54, z=29.53] died, message: 'Villager was slain by Royal Draugr'
-[01Jun2025 04:30:09.433] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/13299, l='ServerLevel[world]', x=-1184.11, y=68.42, z=25.70] died, message: 'Villager was slain by Royal Draugr'
-[01Jun2025 04:30:48.782] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/14577, l='ServerLevel[world]', x=-1222.87, y=94.00, z=58.61] died, message: 'Villager was shot by Elite Draugr'
-[01Jun2025 04:33:18.930] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/13219, l='ServerLevel[world]', x=-1262.49, y=81.00, z=63.51] died, message: 'Villager was slain by Royal Draugr'
-[01Jun2025 04:33:36.188] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/14210, l='ServerLevel[world]', x=-1251.55, y=83.00, z=60.92] died, message: 'Villager was slain by Royal Draugr'
-[01Jun2025 04:33:40.281] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/13293, l='ServerLevel[world]', x=-1252.20, y=83.00, z=61.13] died, message: 'Villager was slain by Royal Draugr'
-[01Jun2025 04:34:37.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan was cursed by Maledictus 's Magic
-[01Jun2025 04:34:37.564] [Server thread/INFO] [tombstone/]: The player eriickgaiitan has successfully been saved
-[01Jun2025 04:35:01.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [eriickgaiitan: Teleported eriickgaiitan to -1240.500000, 50.000000, -23.500000]
-[01Jun2025 04:36:13.381] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/16179, l='ServerLevel[world]', x=-1249.53, y=64.54, z=88.01] died, message: 'Villager was slain by Royal Draugr'
-[01Jun2025 04:36:34.730] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/16178, l='ServerLevel[world]', x=-1222.40, y=65.00, z=68.85] died, message: 'Villager was slain by Royal Draugr'
-[01Jun2025 04:37:35.734] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/17012, l='ServerLevel[world]', x=-1253.30, y=100.00, z=14.30] died, message: 'Villager was shot by Elite Draugr'
-[01Jun2025 04:37:49.131] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/16201, l='ServerLevel[world]', x=-1232.28, y=64.00, z=123.60] died, message: 'Villager was slain by Royal Draugr'
-[01Jun2025 04:41:20.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan was cursed by Maledictus 's Magic
-[01Jun2025 04:41:20.877] [Server thread/INFO] [tombstone/]: The player eriickgaiitan has successfully been saved
-[01Jun2025 04:44:00.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [eriickgaiitan: Teleported eriickgaiitan to -1237.500000, 50.000000, -21.500000]
-[01Jun2025 04:44:15.329] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/18560, l='ServerLevel[world]', x=-1239.89, y=116.60, z=-15.28] died, message: 'Villager was cursed by Aptrgangr'
-[01Jun2025 04:44:17.890] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/18805, l='ServerLevel[world]', x=-1248.49, y=67.94, z=98.72] died, message: 'Armorer was slain by Royal Draugr'
-[01Jun2025 04:44:30.683] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/18802, l='ServerLevel[world]', x=-1240.65, y=67.00, z=127.45] died, message: 'Farmer was slain by Royal Draugr'
-[01Jun2025 04:44:54.185] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/19286, l='ServerLevel[world]', x=-1229.41, y=65.00, z=118.46] died, message: 'Villager was slain by Royal Draugr'
-[01Jun2025 04:45:01.886] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/18806, l='ServerLevel[world]', x=-1241.28, y=67.02, z=129.70] died, message: 'Villager was slain by Royal Draugr'
-[01Jun2025 04:45:09.734] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/18813, l='ServerLevel[world]', x=-1247.34, y=66.50, z=124.70] died, message: 'Farmer was slain by Royal Draugr'
-[01Jun2025 04:45:18.134] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/18814, l='ServerLevel[world]', x=-1243.24, y=64.00, z=144.21] died, message: 'Villager was slain by Royal Draugr'
-[01Jun2025 04:45:31.685] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/19459, l='ServerLevel[world]', x=-1263.52, y=103.50, z=30.89] died, message: 'Villager was slain by Draugr'
-[01Jun2025 04:45:43.181] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/19628, l='ServerLevel[world]', x=-1220.43, y=116.17, z=-4.43] died, message: 'Villager was slain by Draugr'
-[01Jun2025 04:46:06.581] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/19370, l='ServerLevel[world]', x=-1241.91, y=77.23, z=62.77] died, message: 'Villager was slain by Elite Draugr'
-[01Jun2025 04:46:52.481] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/20134, l='ServerLevel[world]', x=-1240.70, y=104.00, z=6.73] died, message: 'Villager was slain by Draugr'
-[01Jun2025 04:47:37.480] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/18549, l='ServerLevel[world]', x=-1221.48, y=104.00, z=1.00] died, message: 'Villager was slain by Draugr'
-[01Jun2025 04:47:45.928] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/19697, l='ServerLevel[world]', x=-1242.51, y=88.00, z=-20.50] died, message: 'Leatherworker was slain by Elite Draugr'
-[01Jun2025 04:48:26.583] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/20356, l='ServerLevel[world]', x=-1235.26, y=66.00, z=117.50] died, message: 'Villager was slain by Royal Draugr'
-[01Jun2025 04:48:34.383] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/18559, l='ServerLevel[world]', x=-1221.31, y=88.00, z=-9.30] died, message: 'Leatherworker was shot by Elite Draugr'
-[01Jun2025 04:48:41.083] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/18764, l='ServerLevel[world]', x=-1243.54, y=64.00, z=144.16] died, message: 'Farmer was slain by Royal Draugr'
-[01Jun2025 04:48:52.679] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/18652, l='ServerLevel[world]', x=-1235.35, y=103.38, z=1.46] died, message: 'Villager was slain by Draugr'
-[01Jun2025 04:48:56.585] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/19074, l='ServerLevel[world]', x=-1273.33, y=80.00, z=54.30] died, message: 'Villager was shot by Elite Draugr'
-[01Jun2025 04:49:04.927] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/18564, l='ServerLevel[world]', x=-1218.33, y=88.00, z=-7.91] died, message: 'Weaponsmith was slain by Elite Draugr'
-[01Jun2025 04:49:33.078] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/21861, l='ServerLevel[world]', x=-1257.64, y=108.00, z=-16.50] died, message: 'Villager was slain by Draugr'
-[01Jun2025 04:49:56.833] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/18715, l='ServerLevel[world]', x=-1222.23, y=88.00, z=-15.57] died, message: 'Weaponsmith was shot by Elite Draugr'
-[01Jun2025 04:49:59.481] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/20905, l='ServerLevel[world]', x=-1255.10, y=82.00, z=62.99] died, message: 'Villager was slain by Elite Draugr'
-[01Jun2025 04:50:19.228] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/21781, l='ServerLevel[world]', x=-1215.86, y=88.00, z=-0.27] died, message: 'Weaponsmith was slain by Elite Draugr'
-[01Jun2025 04:50:44.137] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/21141, l='ServerLevel[world]', x=-1221.49, y=99.00, z=37.69] died, message: 'Villager was shot by Elite Draugr'
-[01Jun2025 04:50:54.078] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/18676, l='ServerLevel[world]', x=-1227.58, y=97.00, z=16.05] died, message: 'Villager was slain by Draugr'
-[01Jun2025 04:51:14.938] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/22180, l='ServerLevel[world]', x=-1259.50, y=105.00, z=0.62] died, message: 'Villager was slain by Draugr'
-[01Jun2025 04:51:28.328] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/18681, l='ServerLevel[world]', x=-1230.55, y=88.92, z=-9.65] died, message: 'Leatherworker was slain by Elite Draugr'
-[01Jun2025 04:51:34.332] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/22266, l='ServerLevel[world]', x=-1200.50, y=76.00, z=20.30] died, message: 'Villager froze to death'
-[01Jun2025 04:51:36.977] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/23557, l='ServerLevel[world]', x=-1214.99, y=112.00, z=-13.85] died, message: 'Villager was slain by Draugr'
-[01Jun2025 04:51:44.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan was cursed by Maledictus 's Arrow
-[01Jun2025 04:51:44.567] [Server thread/INFO] [tombstone/]: The player eriickgaiitan has successfully been saved
-[01Jun2025 04:51:46.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan has made the advancement [The Most Useful Key]
-[01Jun2025 04:52:05.532] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: eriickgaiitan lost connection: Disconnected
-[01Jun2025 04:52:05.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan left the game
-[01Jun2025 04:53:10.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
-[01Jun2025 04:53:10.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hola<--[HERE]
-[01Jun2025 04:53:16.790] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: eriickgaiitan[/127.53.107.145:41513] logged in with entity id 23945 at (-157.26263836842364, 100.5625, 1527.8043563048275)
-[01Jun2025 04:53:16.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan joined the game
-[01Jun2025 04:53:32.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan has reached the goal [A Fast Comeback]
-[01Jun2025 04:54:06.828] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/24197, l='ServerLevel[world]', x=-1230.88, y=88.00, z=-13.88] died, message: 'Weaponsmith was slain by Elite Draugr'
-[01Jun2025 04:54:18.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan was cursed by Maledictus
-[01Jun2025 04:54:19.343] [Server thread/INFO] [tombstone/]: The player eriickgaiitan has successfully been saved
-[01Jun2025 04:54:38.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [eriickgaiitan: Teleported eriickgaiitan to -1251.500000, 51.000000, -4.500000]
-[01Jun2025 04:55:14.339] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager AggressiveVillagerEntity['Angry Villager'/25519, l='ServerLevel[world]', x=-1201.60, y=88.00, z=5.50] died, message: 'Angry Villager was slain by Mazdallier'
-[01Jun2025 04:55:39.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan was cursed by Maledictus
-[01Jun2025 04:55:40.403] [Server thread/INFO] [tombstone/]: The player eriickgaiitan has successfully been saved
-[01Jun2025 04:56:06.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [eriickgaiitan: Teleported eriickgaiitan to -1226.500000, 51.000000, -17.500000]
-[01Jun2025 04:57:50.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan was cursed by Maledictus 's Magic
-[01Jun2025 04:57:51.228] [Server thread/INFO] [tombstone/]: The player eriickgaiitan has successfully been saved
-[01Jun2025 04:58:26.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan has reached the goal [Chain Death]
-[01Jun2025 04:58:26.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan was slain by Maledictus
-[01Jun2025 04:58:27.130] [Server thread/INFO] [tombstone/]: The player eriickgaiitan has successfully been saved
-[01Jun2025 04:58:56.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [eriickgaiitan: Teleported eriickgaiitan to -1241.500000, 50.000000, -31.500000]
-[01Jun2025 05:00:44.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan has completed the challenge [Cannibal]
-[01Jun2025 05:13:03.179] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/31899, l='ServerLevel[world]', x=-1220.46, y=116.00, z=-4.86] died, message: 'Villager was slain by Draugr'
-[01Jun2025 05:13:28.378] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/31761, l='ServerLevel[world]', x=-1217.43, y=104.00, z=7.83] died, message: 'Villager was slain by Elite Draugr'
-[01Jun2025 05:13:42.336] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/32004, l='ServerLevel[world]', x=-1241.46, y=115.00, z=-19.49] died, message: 'Villager was slain by Aptrgangr'
-[01Jun2025 05:17:09.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan has reached the goal [Strong Undead]
-[01Jun2025 05:17:09.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan has completed the challenge [Crusade Against Curse]
-[01Jun2025 05:17:23.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan has made the advancement [Not even afraid of death]
-[01Jun2025 05:17:23.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan has made the advancement [Back to childhood]
-[01Jun2025 05:21:41.988] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/31852, l='ServerLevel[world]', x=-1246.84, y=67.00, z=130.47] died, message: 'Villager was slain by Royal Draugr'
-[01Jun2025 05:21:54.381] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/31552, l='ServerLevel[world]', x=-1252.18, y=66.00, z=125.16] died, message: 'Villager was slain by Royal Draugr'
-[01Jun2025 05:21:56.987] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/31551, l='ServerLevel[world]', x=-1247.49, y=66.00, z=121.54] died, message: 'Armorer was slain by Royal Draugr'
-[01Jun2025 05:22:17.241] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/31549, l='ServerLevel[world]', x=-1244.99, y=69.00, z=101.24] died, message: 'Armorer was slain by Royal Draugr'
-[01Jun2025 05:22:20.179] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/32188, l='ServerLevel[world]', x=-1215.95, y=96.00, z=33.62] died, message: 'Villager was slain by Draugr'
-[01Jun2025 05:22:26.531] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/32317, l='ServerLevel[world]', x=-1250.86, y=68.00, z=95.84] died, message: 'Villager was slain by Royal Draugr'
-[01Jun2025 05:22:42.480] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/32381, l='ServerLevel[world]', x=-1243.65, y=69.00, z=101.27] died, message: 'Armorer was slain by Royal Draugr'
-[01Jun2025 05:22:53.235] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/33977, l='ServerLevel[world]', x=-1257.37, y=93.00, z=23.31] died, message: 'Villager was shot by Elite Draugr'
-[01Jun2025 05:22:58.538] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/34010, l='ServerLevel[world]', x=-1229.33, y=94.00, z=56.82] died, message: 'Villager was shot by Elite Draugr'
-[01Jun2025 05:23:04.283] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/31459, l='ServerLevel[world]', x=-1275.48, y=83.00, z=50.41] died, message: 'Villager was shot by Elite Draugr'
-[01Jun2025 05:57:13.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan has made the advancement [Bloody Stream]
-[01Jun2025 05:58:36.981] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/44691, l='ServerLevel[world]', x=-185.30, y=68.00, z=1250.30] died, message: 'Villager was slain by Zombie'
+[02Jun2025 01:33:33.789] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[02Jun2025 01:33:33.795] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
+[02Jun2025 01:33:35.052] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[02Jun2025 01:33:35.071] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.onLoad
+[02Jun2025 01:33:35.072] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file URL: union:/workspaces/mods/servidor_minecraft/mods/preview_OptiFine_1.20.1_HD_U_I6_pre6.jar%23125!/
+[02Jun2025 01:33:35.084] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file: /workspaces/mods/servidor_minecraft/mods/preview_OptiFine_1.20.1_HD_U_I6_pre6.jar
+[02Jun2025 01:33:35.086] [main/INFO] [optifine.OptiFineTransformer/]: Target.PRE_CLASS is available
+[02Jun2025 01:33:35.167] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/mods/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[02Jun2025 01:33:35.177] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.initialize
+[02Jun2025 01:33:35.511] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/mods/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[02Jun2025 01:33:35.515] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/mods/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[02Jun2025 01:33:35.518] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/mods/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[02Jun2025 01:33:35.520] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/mods/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[02Jun2025 01:33:35.746] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 5 dependencies adding them to mods collection
+[02Jun2025 01:33:36.571] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.transformers
+[02Jun2025 01:33:36.589] [main/INFO] [optifine.OptiFineTransformer/]: Targets: 412
+[02Jun2025 01:33:37.425] [main/INFO] [optifine.OptiFineTransformationService/]: additionalClassesLocator: [optifine., net.optifine.]
+[02Jun2025 01:33:38.480] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[02Jun2025 01:33:38.555] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[02Jun2025 01:33:40.505] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[02Jun2025 01:33:51.222] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[02Jun2025 01:33:51.227] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
+[02Jun2025 01:33:51.236] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
+[02Jun2025 01:33:51.254] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
+[02Jun2025 01:33:51.258] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
+[02Jun2025 01:33:51.261] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
+[02Jun2025 01:33:51.262] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
+[02Jun2025 01:33:51.270] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
+[02Jun2025 01:33:51.942] [modloading-worker-0/INFO] [de.teamlapen.vampirism.config.BalanceConfig/]: IceAndFire is loaded -> Adjusting default fire related configuration.
+[02Jun2025 01:33:52.017] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[02Jun2025 01:33:52.017] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[02Jun2025 01:33:52.062] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[02Jun2025 01:33:58.251] [main/INFO] [evilcraft/]: 2205 possible Broom base combinations are ready for flying!
+[02Jun2025 01:33:59.024] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cyclopscore] Starting version check at https://raw.githubusercontent.com/CyclopsMC/Versions/master/forge_update/cyclops-core.json
+[02Jun2025 01:33:59.051] [modloading-worker-0/INFO] [evilcraft/]: Registered packet handler.
+[02Jun2025 01:33:59.100] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cyclopscore] Found status: OUTDATED Current: 1.20.0 Target: 1.20.1
+[02Jun2025 01:33:59.106] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [hmag] Starting version check at https://github.com/Mechalopa/Hostile-Mobs-and-Girls/raw/1.20.1/update.json
+[02Jun2025 01:33:59.206] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [hmag] Found status: OUTDATED Current: 9.0.29 Target: 9.0.30
+[02Jun2025 01:33:59.207] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[02Jun2025 01:33:59.225] [main/INFO] [journeymap/]: Initializing Packet Registries
+[02Jun2025 01:33:59.265] [main/INFO] [de.teamlapen.vampirism.core.ModEffects/]: Fixing vanilla night vision potion types
+[02Jun2025 01:33:59.327] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: OUTDATED Current: 5.10.2 Target: 5.10.3
+[02Jun2025 01:33:59.327] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [evilcraft] Starting version check at https://raw.githubusercontent.com/CyclopsMC/Versions/master/forge_update/evilcraft.json
+[02Jun2025 01:33:59.339] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [evilcraft] Found status: OUTDATED Current: 1.2.53 Target: 1.2.54
+[02Jun2025 01:33:59.339] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[02Jun2025 01:33:59.359] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 8.9.4 Target: 8.9.5
+[02Jun2025 01:33:59.360] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [vampirism] Starting version check at https://api.modrinth.com/updates/vampirism/forge_updates.json
+[02Jun2025 01:33:59.359] [main/INFO] [de.teamlapen.vampirism.core.ModEffects/]: Fixing vanilla night vision potion types
+[02Jun2025 01:33:59.588] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [vampirism] Found status: UP_TO_DATE Current: 1.10.13 Target: null
+[02Jun2025 01:33:59.588] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[02Jun2025 01:33:59.860] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[02Jun2025 01:34:01.812] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[02Jun2025 01:34:03.217] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/mods/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23151!/assets/.mcassetsroot' uses unexpected schema
+[02Jun2025 01:34:03.218] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/mods/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23151!/data/.mcassetsroot' uses unexpected schema
+[02Jun2025 01:34:04.219] [main/INFO] [de.teamlapen.vampirism.world.biome.OverworldModifications/]: Adding biome vampirism:vampire_forest to ParameterPoints [ParameterPoint[temperature=[-4000--1900], humidity=[1000-3000], continentalness=[-1100-5500], erosion=[-3750--2225], depth=0, weirdness=[-5666--500], offset=0], ParameterPoint[temperature=[-4000--1900], humidity=[1000-3000], continentalness=[-1100-5500], erosion=[-3750--2225], depth=0, weirdness=[500-4000], offset=0]] in Preset.OVERWORLD
+[02Jun2025 01:34:04.957] [Worker-Main-4/WARN] [artifacts.Artifacts/]: Tag entries for curios:tags/items/magic_book.json cleared by tombstone-1.20.1-8.9.4.jar
+[02Jun2025 01:34:05.931] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe vampirism:general/umbrella as it's serializer returned null
+[02Jun2025 01:34:05.978] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe vampirism:general/guidebook as it's serializer returned null
+[02Jun2025 01:34:05.983] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe vampirism:vampire/blood_bottle as it's serializer returned null
+[02Jun2025 01:34:05.995] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 16 recipes
+[02Jun2025 01:34:06.141] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2216 advancements
+[02Jun2025 01:34:06.155] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 13 curio slots
+[02Jun2025 01:34:06.164] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio entities
+[02Jun2025 01:34:06.170] [main/INFO] [de.teamlapen.vampirism.entity.player.skills.SkillTree/]: Loaded 53 skill nodes
+[02Jun2025 01:34:06.176] [main/INFO] [de.teamlapen.vampirism.entity.converted.VampirismEntityRegistry/]: Registered 14 convertibles
+[02Jun2025 01:34:07.136] [main/INFO] [evilcraft/]: 19 Broom modifiers can be applied!
+[02Jun2025 01:34:07.257] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[02Jun2025 01:34:07.258] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[02Jun2025 01:34:07.258] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[02Jun2025 01:34:07.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[02Jun2025 01:34:07.339] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[02Jun2025 01:34:07.387] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[02Jun2025 01:34:07.481] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02Jun2025 01:34:07.481] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[02Jun2025 01:34:07.482] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02Jun2025 01:34:07.482] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[02Jun2025 01:34:07.500] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[02Jun2025 01:34:07.503] [Thread-3/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[02Jun2025 01:34:07.671] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[02Jun2025 01:34:08.120] [Server thread/INFO] [de.teamlapen.vampirism.GeneralEventHandler/]: Replacing DistanceManager.chunksToUpdateFutures for level ResourceKey[minecraft:dimension / minecraft:overworld] with concurrent set.
+[02Jun2025 01:34:14.613] [Server thread/INFO] [de.teamlapen.vampirism.GeneralEventHandler/]: Replacing DistanceManager.chunksToUpdateFutures for level ResourceKey[minecraft:dimension / minecraft:the_end] with concurrent set.
+[02Jun2025 01:34:14.656] [Server thread/INFO] [de.teamlapen.vampirism.GeneralEventHandler/]: Replacing DistanceManager.chunksToUpdateFutures for level ResourceKey[minecraft:dimension / minecraft:the_nether] with concurrent set.
+[02Jun2025 01:34:14.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[02Jun2025 01:34:19.420] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jun2025 01:34:19.464] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jun2025 01:34:19.514] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jun2025 01:34:19.527] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jun2025 01:34:19.534] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jun2025 01:34:19.543] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jun2025 01:34:19.567] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jun2025 01:34:19.583] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jun2025 01:34:19.592] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jun2025 01:34:19.600] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jun2025 01:34:19.668] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jun2025 01:34:20.161] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jun2025 01:34:20.661] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 22%
+[02Jun2025 01:34:21.160] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 83%
+[02Jun2025 01:34:21.316] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 6657 ms
+[02Jun2025 01:34:21.317] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (13.820s)! For help, type "help"
+[02Jun2025 01:34:21.368] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[02Jun2025 01:34:21.418] [Server thread/INFO] [cyclopscore/]: Loading infobook /data/cyclopscore/info/test.xml
+[02Jun2025 01:34:21.433] [Server thread/INFO] [evilcraft/]: Loading infobook /data/evilcraft/info/book.xml
+[02Jun2025 01:34:21.478] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:witherer has no valid items
+[02Jun2025 01:34:21.478] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:hungerer has no valid items
+[02Jun2025 01:34:21.478] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:kamikaze has no valid items
+[02Jun2025 01:34:21.483] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:withershield has no valid items
+[02Jun2025 01:34:21.521] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
+[02Jun2025 01:34:21.521] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[02Jun2025 01:34:45.509] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: eriickgaiitan[/127.53.107.145:43181] logged in with entity id 623 at (-130.30000001192093, 99.0, 1530.762499988079)
+[02Jun2025 01:34:45.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan joined the game
+[02Jun2025 01:34:49.797] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4375ms or 87 ticks behind
+[02Jun2025 01:34:51.985] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify villager zombie attack target task for translation{key='entity.minecraft.zombified_piglin', args=[]}
+[02Jun2025 01:42:35.635] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1975, l='ServerLevel[world]', x=-150.51, y=69.00, z=1311.54] died, message: 'Villager was sucked dry fighting eriickgaiitan'
+[02Jun2025 01:43:10.283] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=-206, y=67, z=1300}
+[02Jun2025 01:43:16.435] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1982, l='ServerLevel[world]', x=-202.99, y=66.00, z=1302.28] died, message: 'Villager was sucked dry fighting eriickgaiitan'

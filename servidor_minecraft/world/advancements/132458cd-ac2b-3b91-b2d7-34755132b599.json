@@ -3320,17 +3320,47 @@
     },
     "done": true
   },
-  "vampirism:vampire/blood_cult": {
+  "tombstone:adventure/teleport_to_grave": {
     "criteria": {
-      "main": "2025-06-01 05:56:20 +0000"
+      "coded_trigger": "2025-06-01 04:53:32 +0000"
     },
-    "done": false
+    "done": true
   },
-  "vampirism:vampire/freeze_kill": {
+  "tombstone:adventure/chain_death": {
     "criteria": {
-      "main": "2025-06-01 05:56:20 +0000"
+      "coded_trigger": "2025-06-01 04:58:26 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "evilcraft:cannibal": {
+    "criteria": {
+      "criteria_0": "2025-06-01 05:00:44 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_undead": {
+    "criteria": {
+      "coded_trigger": "2025-06-01 05:17:09 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_maledictus": {
+    "criteria": {
+      "ignis": "2025-06-01 05:17:09 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_voodoo_poppet": {
+    "criteria": {
+      "has_voodoo_poppet": "2025-06-01 05:17:23 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_voodoo_poppet": {
+    "criteria": {
+      "has_enchanted_voodoo_poppet": "2025-06-01 05:17:23 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
@@ -3343,6 +3373,48 @@
       "has_golden_chestplate": "2025-06-01 05:33:25 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-06-01 05:53:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-06-01 05:53:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-06-01 05:54:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-06-01 05:54:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-06-01 05:54:04 +0000"
+    },
+    "done": true
+  },
+  "vampirism:vampire/blood_cult": {
+    "criteria": {
+      "main": "2025-06-01 05:56:20 +0000"
+    },
+    "done": false
+  },
+  "vampirism:vampire/freeze_kill": {
+    "criteria": {
+      "main": "2025-06-01 05:56:20 +0000"
+    },
+    "done": false
   },
   "vampirism:vampire/first_blood": {
     "criteria": {
@@ -3357,36 +3429,6 @@
     },
     "done": false
   },
-  "minecraft:recipes/building_blocks/clay": {
-    "criteria": {
-      "has_clay_ball": "2025-06-01 05:53:57 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/chain_death": {
-    "criteria": {
-      "coded_trigger": "2025-06-01 04:58:26 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/strong_undead": {
-    "criteria": {
-      "coded_trigger": "2025-06-01 05:17:09 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/create_voodoo_poppet": {
-    "criteria": {
-      "has_voodoo_poppet": "2025-06-01 05:17:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
-    "criteria": {
-      "has_moss_block": "2025-06-01 05:54:04 +0000"
-    },
-    "done": true
-  },
   "vampirism:vampire/yuck": {
     "criteria": {
       "main": "2025-06-01 05:56:20 +0000"
@@ -3399,51 +3441,15 @@
     },
     "done": false
   },
-  "vampirism:hunter/betrayal": {
-    "criteria": {
-      "kill": "2025-06-01 06:02:51 +0000"
-    },
-    "done": false
-  },
   "vampirism:vampire/kill_mother": {
     "criteria": {
       "main": "2025-06-01 05:56:20 +0000"
     },
     "done": false
   },
-  "evilcraft:cannibal": {
-    "criteria": {
-      "criteria_0": "2025-06-01 05:00:44 +0000"
-    },
-    "done": true
-  },
   "vampirism:vampire/become_vampire": {
     "criteria": {
       "main": "2025-06-01 05:56:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/brick": {
-    "criteria": {
-      "has_clay_ball": "2025-06-01 05:53:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/moss_carpet": {
-    "criteria": {
-      "has_moss_block": "2025-06-01 05:54:04 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/teleport_to_grave": {
-    "criteria": {
-      "coded_trigger": "2025-06-01 04:53:32 +0000"
-    },
-    "done": true
-  },
-  "cataclysm:kill_maledictus": {
-    "criteria": {
-      "ignis": "2025-06-01 05:17:09 +0000"
     },
     "done": true
   },
@@ -3459,15 +3465,21 @@
     },
     "done": false
   },
-  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+  "vampirism:hunter/betrayal": {
     "criteria": {
-      "has_moss_block": "2025-06-01 05:54:04 +0000"
+      "kill": "2025-06-01 06:02:51 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-06-01 06:23:35 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/enchant_voodoo_poppet": {
+  "minecraft:recipes/decorations/anvil": {
     "criteria": {
-      "has_enchanted_voodoo_poppet": "2025-06-01 05:17:23 +0000"
+      "has_iron_block": "2025-06-01 06:23:35 +0000"
     },
     "done": true
   },
