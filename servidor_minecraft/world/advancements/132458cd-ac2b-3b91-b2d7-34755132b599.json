@@ -56,6 +56,7 @@
       "minecraft:warm_ocean": "2025-05-29 04:34:04 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-05-29 04:33:57 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-27 02:47:02 +0000",
+      "minecraft:meadow": "2025-06-05 04:09:23 +0000",
       "minecraft:savanna": "2025-05-31 05:40:10 +0000",
       "minecraft:plains": "2025-05-26 21:45:17 +0000"
     },
@@ -4139,6 +4140,78 @@
   "vampirism:main/vampire_forest": {
     "criteria": {
       "main": "2025-06-03 19:06:14 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_boots": {
+    "criteria": {
+      "has_item": "2025-06-05 04:02:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_ice": {
+    "criteria": {
+      "has_item": "2025-06-05 04:12:34 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_chestplate": {
+    "criteria": {
+      "has_item": "2025-06-05 04:02:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_blue_boots": {
+    "criteria": {
+      "has_item": "2025-06-05 04:12:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_helmet": {
+    "criteria": {
+      "has_item": "2025-06-05 04:02:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_blue_leggings": {
+    "criteria": {
+      "has_item": "2025-06-05 04:12:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-06-05 04:12:14 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_blue_chestplate": {
+    "criteria": {
+      "has_item": "2025-06-05 04:12:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_blue_helmet": {
+    "criteria": {
+      "has_item": "2025-06-05 04:12:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_leggings": {
+    "criteria": {
+      "has_item": "2025-06-05 04:02:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_silver_to_dragonscale_silver": {
+    "criteria": {
+      "has_dragonscales_silver": "2025-06-05 04:02:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_blue_to_dragonscale_blue": {
+    "criteria": {
+      "has_dragonscales_blue": "2025-06-05 04:12:13 +0000"
     },
     "done": true
   },

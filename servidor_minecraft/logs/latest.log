@@ -110,3 +110,5 @@
 [05Jun2025 03:55:18.867] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: eriickgaiitan[/127.53.107.145:46463] logged in with entity id 614 at (-1284.990526334522, 74.0, 1811.699999988079)
 [05Jun2025 03:55:19.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan joined the game
 [05Jun2025 03:55:22.233] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3414ms or 68 ticks behind
+[05Jun2025 04:04:02.798] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: eriickgaiitan moved wrongly!
+[05Jun2025 04:13:16.076] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/7904, l='ServerLevel[world]', x=-1468.58, y=74.00, z=1387.95] died, message: 'Villager hit the ground too hard whilst trying to escape Zombie'
