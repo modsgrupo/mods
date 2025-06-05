@@ -2888,3 +2888,11 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [05Jun2025 04:13:16.076] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/7904, l='ServerLevel[world]', x=-1468.58, y=74.00, z=1387.95] died, message: 'Villager hit the ground too hard whilst trying to escape Zombie'
 [05Jun2025 04:14:09.605] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [05Jun2025 04:14:09.613] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jun2025 04:19:09.614] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jun2025 04:19:09.623] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jun2025 04:19:53.004] [Worker-Main-10/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Looking for vampire forest took 32.667s
+[05Jun2025 04:24:09.610] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jun2025 04:24:09.618] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jun2025 04:24:12.752] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/15437, l='ServerLevel[world]', x=-1246.55, y=87.00, z=25.41] died, message: 'Villager was slain by Draugr'
+[05Jun2025 04:24:28.178] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/15483, l='ServerLevel[world]', x=-1198.43, y=64.00, z=60.60] died, message: 'Villager was slain by Royal Draugr'
+[05Jun2025 04:24:30.529] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/15485, l='ServerLevel[world]', x=-1195.41, y=64.00, z=61.26] died, message: 'Villager was slain by Royal Draugr'
