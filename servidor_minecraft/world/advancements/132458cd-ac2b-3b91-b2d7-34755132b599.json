@@ -4145,9 +4145,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-06-05 05:15:49 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_silver_boots": {
     "criteria": {
       "has_item": "2025-06-05 04:02:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-05 05:15:39 +0000"
     },
     "done": true
   },
@@ -4181,6 +4193,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blackstone_wall": {
+    "criteria": {
+      "has_blackstone": "2025-06-05 05:15:39 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_bronze_chestplate": {
     "criteria": {
       "has_item": "2025-06-05 04:56:28 +0000"
@@ -4199,6 +4217,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-05 05:15:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-05 05:15:39 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_blue_chestplate": {
     "criteria": {
       "has_item": "2025-06-05 04:12:13 +0000"
@@ -4211,15 +4241,93 @@
     },
     "done": true
   },
+  "tombstone:adventure/death_master": {
+    "criteria": {
+      "has_prevent_burn": "2025-06-05 05:15:52 +0000"
+    },
+    "done": false
+  },
   "iceandfire:recipes/combat/armor_blue_helmet": {
     "criteria": {
       "has_item": "2025-06-05 04:12:13 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-05 05:15:39 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/prevent_death_burn": {
+    "criteria": {
+      "coded_trigger": "2025-06-05 05:15:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-05 05:15:39 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_silver_leggings": {
     "criteria": {
       "has_item": "2025-06-05 04:02:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-05 05:15:39 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_soul_black_smith": {
+    "criteria": {
+      "blacksmith": "2025-06-05 05:16:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs": {
+    "criteria": {
+      "has_blackstone": "2025-06-05 05:15:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-05 05:15:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-05 05:15:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone": {
+    "criteria": {
+      "has_blackstone": "2025-06-05 05:15:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab": {
+    "criteria": {
+      "has_blackstone": "2025-06-05 05:15:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-05 05:15:39 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/general/blood_sieve": {
+    "criteria": {
+      "has_cauldron": "2025-06-05 05:17:15 +0000"
     },
     "done": true
   },
@@ -4235,6 +4343,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-05 05:15:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-06-05 05:17:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-05 05:15:39 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_bronze_boots": {
     "criteria": {
       "has_item": "2025-06-05 04:56:28 +0000"
@@ -4244,6 +4370,18 @@
   "iceandfire:recipes/building_blocks/dragonscales_blue_to_dragonscale_blue": {
     "criteria": {
       "has_dragonscales_blue": "2025-06-05 04:12:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-05 05:15:39 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_feather_fall": {
+    "criteria": {
+      "has_magic_scroll": "2025-06-05 05:24:00 +0000"
     },
     "done": true
   },

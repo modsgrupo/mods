@@ -142,3 +142,8 @@
 [05Jun2025 04:57:25.444] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify villager zombie attack target task for translation{key='entity.minecraft.zombified_piglin', args=[]}
 [05Jun2025 05:14:35.100] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=100, y=62, z=292} BlockPos{x=99, y=61, z=292}
 [05Jun2025 05:15:52.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan has made the advancement [It's not time to tan]
+[05Jun2025 05:16:18.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan has made the advancement [The Soul Forge]
+[05Jun2025 05:20:39.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan was burnt to a crisp whilst fighting Netherite Monstrosity
+[05Jun2025 05:20:40.305] [Server thread/INFO] [tombstone/]: The player eriickgaiitan has successfully been saved
+[05Jun2025 05:24:00.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan has reached the goal [Like a bird]
+[05Jun2025 05:25:05.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan has completed the challenge [The broken Nether's warmachine]

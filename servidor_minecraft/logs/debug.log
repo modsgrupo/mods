@@ -2976,3 +2976,14 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [05Jun2025 05:14:09.607] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [05Jun2025 05:14:35.100] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=100, y=62, z=292} BlockPos{x=99, y=61, z=292}
 [05Jun2025 05:15:52.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan has made the advancement [It's not time to tan]
+[05Jun2025 05:16:18.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan has made the advancement [The Soul Forge]
+[05Jun2025 05:19:09.596] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jun2025 05:19:09.604] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jun2025 05:20:39.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan was burnt to a crisp whilst fighting Netherite Monstrosity
+[05Jun2025 05:20:40.304] [Server thread/DEBUG] [tombstone/]: A new grave of the player eriickgaiitan was created at position [x:88, y:36, z:78, dim:minecraft:the_nether]
+[05Jun2025 05:20:40.305] [Server thread/INFO] [tombstone/]: The player eriickgaiitan has successfully been saved
+[05Jun2025 05:22:18.245] [Worker-Main-111/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Looking for vampire forest took 95.892s
+[05Jun2025 05:24:00.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan has reached the goal [Like a bird]
+[05Jun2025 05:24:09.598] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jun2025 05:24:09.606] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jun2025 05:25:05.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan has completed the challenge [The broken Nether's warmachine]
