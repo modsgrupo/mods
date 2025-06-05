@@ -2896,3 +2896,42 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [05Jun2025 04:24:12.752] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/15437, l='ServerLevel[world]', x=-1246.55, y=87.00, z=25.41] died, message: 'Villager was slain by Draugr'
 [05Jun2025 04:24:28.178] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/15483, l='ServerLevel[world]', x=-1198.43, y=64.00, z=60.60] died, message: 'Villager was slain by Royal Draugr'
 [05Jun2025 04:24:30.529] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/15485, l='ServerLevel[world]', x=-1195.41, y=64.00, z=61.26] died, message: 'Villager was slain by Royal Draugr'
+[05Jun2025 04:25:05.680] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/15502, l='ServerLevel[world]', x=-1192.22, y=65.00, z=108.65] died, message: 'Villager was slain by Royal Draugr'
+[05Jun2025 04:25:09.033] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/15777, l='ServerLevel[world]', x=-1193.04, y=65.00, z=113.15] died, message: 'Villager was slain by Royal Draugr'
+[05Jun2025 04:25:14.928] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/15585, l='ServerLevel[world]', x=-1266.79, y=104.00, z=4.66] died, message: 'Villager was slain by Elite Draugr'
+[05Jun2025 04:25:21.205] [Worker-Main-3/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Looking for vampire forest took 69.843s
+[05Jun2025 04:25:28.231] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/15503, l='ServerLevel[world]', x=-1230.50, y=68.00, z=91.34] died, message: 'Villager was slain by Royal Draugr'
+[05Jun2025 04:25:28.677] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/15828, l='ServerLevel[world]', x=-1214.85, y=112.00, z=10.09] died, message: 'Villager was slain by Draugr'
+[05Jun2025 04:25:29.879] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/15480, l='ServerLevel[world]', x=-1230.62, y=68.00, z=93.42] died, message: 'Farmer was slain by Royal Draugr'
+[05Jun2025 04:25:32.724] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/15457, l='ServerLevel[world]', x=-1217.30, y=88.00, z=-14.36] died, message: 'Weaponsmith was slain by Elite Draugr'
+[05Jun2025 04:25:48.878] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/15929, l='ServerLevel[world]', x=-1243.90, y=69.00, z=101.30] died, message: 'Armorer was slain by Royal Draugr'
+[05Jun2025 04:26:07.093] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/15735, l='ServerLevel[world]', x=-1227.54, y=105.38, z=0.76] died, message: 'Villager was shot by Elite Draugr'
+[05Jun2025 04:26:44.825] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/16090, l='ServerLevel[world]', x=-1234.76, y=114.60, z=-2.61] died, message: 'Villager was cursed by Aptrgangr'
+[05Jun2025 04:27:29.426] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/16277, l='ServerLevel[world]', x=-1213.70, y=112.50, z=17.61] died, message: 'Villager was slain by Draugr'
+[05Jun2025 04:27:50.326] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/15454, l='ServerLevel[world]', x=-1207.27, y=88.00, z=33.27] died, message: 'Villager was slain by Draugr'
+[05Jun2025 04:29:02.525] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/16414, l='ServerLevel[world]', x=-1224.84, y=104.00, z=-6.60] died, message: 'Villager was slain by Elite Draugr'
+[05Jun2025 04:29:09.607] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jun2025 04:29:09.616] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jun2025 04:29:11.779] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/16620, l='ServerLevel[world]', x=-1220.27, y=115.00, z=-8.19] died, message: 'Villager was slain by Draugr'
+[05Jun2025 04:29:15.026] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/16533, l='ServerLevel[world]', x=-1240.35, y=88.00, z=59.50] died, message: 'Villager was slain by Draugr'
+[05Jun2025 04:30:22.774] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/16685, l='ServerLevel[world]', x=-1244.09, y=86.00, z=28.59] died, message: 'Villager was slain by Draugr'
+[05Jun2025 04:30:58.876] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/16937, l='ServerLevel[world]', x=-1218.56, y=88.00, z=35.74] died, message: 'Villager was slain by Draugr'
+[05Jun2025 04:31:43.075] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/15434, l='ServerLevel[world]', x=-1255.39, y=93.00, z=39.87] died, message: 'Villager was slain by Draugr'
+[05Jun2025 04:32:16.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eriickgaiitan fell from a high place
+[05Jun2025 04:32:17.285] [Server thread/DEBUG] [tombstone/]: A new grave of the player eriickgaiitan was created at position [x:-1283, y:72, z:328, dim:minecraft:overworld]
+[05Jun2025 04:32:17.316] [Server thread/INFO] [tombstone/]: The player eriickgaiitan has successfully been saved
+[05Jun2025 04:32:19.149] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.51 and blood value 3 for entity iceandfire:deathworm
+[05Jun2025 04:32:19.295] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 2.73 and blood value 15 for entity minecraft:camel
+[05Jun2025 04:32:19.345] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.51 and blood value 3 for entity iceandfire:deathworm
+[05Jun2025 04:32:19.750] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.13 and blood value 0 for entity iceandfire:sea_serpent
+[05Jun2025 04:32:21.846] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.73 and blood value 5 for entity iceandfire:myrmex_worker
+[05Jun2025 04:32:22.001] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 3.3 and blood value 0 for entity iceandfire:myrmex_sentinel
+[05Jun2025 04:32:22.002] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.73 and blood value 5 for entity iceandfire:myrmex_worker
+[05Jun2025 04:32:22.002] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.73 and blood value 5 for entity iceandfire:myrmex_worker
+[05Jun2025 04:32:22.002] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.37 and blood value 9 for entity iceandfire:myrmex_soldier
+[05Jun2025 04:32:22.004] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.73 and blood value 5 for entity iceandfire:myrmex_worker
+[05Jun2025 04:32:22.417] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 15.64 and blood value 0 for entity iceandfire:myrmex_queen
+[05Jun2025 04:32:22.417] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.37 and blood value 9 for entity iceandfire:myrmex_soldier
+[05Jun2025 04:32:22.418] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.73 and blood value 5 for entity iceandfire:myrmex_worker
+[05Jun2025 04:34:09.601] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jun2025 04:34:09.609] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
