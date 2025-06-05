@@ -4181,15 +4181,33 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_bronze_chestplate": {
+    "criteria": {
+      "has_item": "2025-06-05 04:56:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2025-06-05 04:12:14 +0000"
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_bronze_helmet": {
+    "criteria": {
+      "has_item": "2025-06-05 04:56:28 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_blue_chestplate": {
     "criteria": {
       "has_item": "2025-06-05 04:12:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_bronze_leggings": {
+    "criteria": {
+      "has_item": "2025-06-05 04:56:28 +0000"
     },
     "done": true
   },
@@ -4208,6 +4226,18 @@
   "iceandfire:recipes/building_blocks/dragonscales_silver_to_dragonscale_silver": {
     "criteria": {
       "has_dragonscales_silver": "2025-06-05 04:02:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_bronze_to_sea_serpent_scale_block_bronze": {
+    "criteria": {
+      "has_sea_serpent_scales_bronze": "2025-06-05 04:56:28 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_bronze_boots": {
+    "criteria": {
+      "has_item": "2025-06-05 04:56:28 +0000"
     },
     "done": true
   },
